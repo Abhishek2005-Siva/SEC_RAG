@@ -1,0 +1,22 @@
+{
+  "columns": [
+    {
+      "field": "id",
+      "title": "id",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 67
+    },
+    {
+      "field": "text",
+      "title": "text",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 1547
+    }
+  ]
+}

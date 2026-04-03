@@ -1,0 +1,84 @@
+CrossEncoderScore: -0.6931712627410889
+Score: 1.2667834758758545
+File: esgr-20220701.txt
+Chunk ID: 0
+
+esgr-20220701
+Enstar Group LTD
+0001363829
+FALSE
+D0
+0001363829
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:CommonStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesDPreferredStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesEPreferredStockMember
+2022-07-01
+2022-07-01
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+July 1, 2022
+Enstar Group Limited
+(Exact name of registrant as specified in its charter)
+Bermuda
+001-33289
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+P.O. Box HM 2267
+,
+Windsor Place 3
+rd
+Floor
+22 Queen Street
+,
+Hamilton
+HM JX
+Bermuda
+N/A
+(Address of principal executive offices)                                    (Zip Code)
+Registrant’s telephone number, including area code: (
+441
+)
+292-3645
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Ordinary shares, par value $1.00 per share
+ESGR
+The NASDAQ Stock Market
+LLC
+Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Floating Rate
+ESGRP
+The NASDAQ Stock Market
+LLC
+Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.

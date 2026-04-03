@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "text",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "source",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

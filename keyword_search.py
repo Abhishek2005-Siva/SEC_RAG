@@ -1,26 +1,14 @@
-from rank_bm25 import BM25Okapi
-import os
-
-folder_path = "sec_filings"
-
 documents = []
-filenames = []
+from rank_bm25 import BM25Okapi
 
-for filename in os.listdir(folder_path):
-    if filename.endswith(".txt"):
-        file_path = os.path.join(folder_path, filename)
-        
-        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-            documents.append(f.read().lower())
-            filenames.append(filename)
+class BM25KeywordSearch:
+    def __init__(self, chunks, chunk_sources):
+        self.chunks = chunks
+        self.chunk_sources = chunk_sources
+        self.bm25 = BM25Okapi([chunk.lower().split() for chunk in chunks])
 
-# BM25
-bm25 = BM25Okapi([doc.split() for doc in documents])
-
-query = "appointment chief 5.02"
-query_score = bm25.get_scores(query.split())
-
-# Print filename with score
-for fname, score in zip(filenames, query_score):
-    print(f"{fname} --> {score:.4f}")
-    
+    def query(self, query, top_k=5):
+        bm25_scores = self.bm25.get_scores(query.lower().split())
+        bm25_top_idx = sorted(range(len(bm25_scores)), key=lambda i: -bm25_scores[i])[:top_k]
+        bm25_results = [(self.chunks[i], self.chunk_sources[i], bm25_scores[i], i) for i in bm25_top_idx]
+        return bm25_results
