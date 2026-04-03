@@ -1,0 +1,173 @@
+true
+See Explanatory Note
+0000882291
+0000882291
+2023-11-07
+2023-11-07
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K/A
+Amendment
+No. 1
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+November 7, 2023
+AETHLON
+MEDICAL, INC.
+(Exact name of Registrant as Specified in Its
+Charter)
+Nevada
+001-37487
+13-3632859
+(State or Other Jurisdiction of
+    Incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+11555
+    Sorrento Valley Road
+,
+Suite
+    203
+San Diego
+,
+California
+92121
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including
+Area Code:
+(
+619
+)
+941-0360
+N/A
+(Former Name or Former Address, if Changed Since
+Last Report)
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+AEMD
+The
+Nasdaq
+Capital Market
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act.
+☐
+Explanatory Note
+As previously reported by Aethlon Medical, Inc.
+(the “Company”) on a Current Report on Form 8-K filed with the Securities and Exchange Commission (the “SEC”)
+on November 13, 2023 (the “Initial Form 8-K”), effective November 7, 2023 (the “Effective Date”), (i) James B.
+Frakes, Chief Financial Officer of the Company was appointed as Interim Chief Executive Officer of the Company, replacing Charles J. Fisher,
+Jr. M.D., and (ii) Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer of the Company, was appointed as the Company’s
+Senior Vice President and Chief Operating Officer. Pursuant to Instruction 2 to Item 5.02 of Form 8-K, this Current Report on Form 8-K/A
+is being filed as an amendment to the Initial Form 8-K to provide information related to the compensation arrangements for Messrs. Frakes
+and Cipriani in connection with such appointments, which had not yet been determined at the time of the filing of the Initial Form 8-K.
+In accordance with Rule 12b-15 of the Securities
+Exchange Act of 1934, as amended, the complete text of Item 5.02 of the Initial Form 8-K, as amended hereby, is set forth below.
+Item 5.02 Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b)
+Departure of Charles J. Fisher, Jr., M.D. as Chief Executive
+Officer and Resignation of Guy F. Cipriani as Director
+The information set forth in Item 5.02(c) below is incorporated by
+reference into this Item 5.02(b).
+(c)
+Appointment of James B. Frakes as Interim Chief Executive Officer
+and Guy F. Cipriani as Chief Operating Officer
+Effective as of the Effective Date, Mr. Frakes,
+Chief Financial Officer of the Company, was appointed as (i) Interim Chief Executive Officer of the Company, replacing Dr. Fisher, and
+(ii) a member of the Board of Directors of the Company (the “Board”). Mr. Frakes will additionally remain as Chief Financial
+Officer of the Company. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
+of the Company, (i) was appointed as the Company’s Senior Vice President and Chief Operating Officer and (ii) resigned from the
+Board.
+The biographies of Mr. Frakes and Mr. Cipriani
+are incorporated herein by reference to the “Information About Our Board of Directors and Executive Officers” section of the
+Company’s definitive proxy statement on Schedule 14A, filed with the SEC on July 27, 2023 (the “Proxy Statement”).
+On December 12, 2018, the Company entered into
+an executive employment agreement with Mr. Frakes (the “Frakes Employment Agreement”) that provided for an initial annual
+base salary of $260,000. Mr. Frakes’ annual base salary was increased by the Board to $360,000, effective January 1, 2023.
+In addition, the Frakes Employment Agreement provides that Mr. Frakes is eligible for an annual cash performance bonus for each year.
+Whether Mr. Frakes receives an annual bonus for any given year, and the amount of any such annual bonus, will be determined in the discretion
+of the Board (or the Compensation Committee thereof), based upon the Company’s and Mr. Frakes’ achievement of objectives and
+milestones to be determined on an annual basis by the Board (or Compensation Committee thereof). The Frakes Employment Agreement also
+provides that if Mr. Frakes’ employment is terminated without cause, or if he resigns for good reason (each as defined in the agreement),
+then Mr. Frakes’ will be entitled under the Frakes Employment Agreement to continue to receive his annual base salary and payment
+of premiums for continuation of healthcare benefits for a period of 12 months following such termination.
+In connection with Mr. Frakes’ appointment
+as Interim Chief Executive Officer of the Company, on December 21, 2023, the Company entered into an amendment to the Frakes Employment
+Agreement with Mr. Frakes (the “Frakes Amendment”), which is effective as of the Effective Date, that provides for an annual
+base salary of $500,000, which may be reduced by the Board when the Company appoints a new Chief Executive Officer and Mr. Frakes is no
+longer serving as the Interim Chief Executive Officer. The Frakes Amendment also provides that while employed as Interim Chief Executive
+Officer, Mr. Frakes will be appointed to and serve as a director on the Board.
+The description of Mr. Cipriani’s executive
+employment agreement (the “Cipriani Employment Agreement”) is incorporated herein by reference to the “Employment Contracts”
+section of the Proxy Statement.
+In connection with Mr. Cipriani’s appointment
+as Senior Vice President and Chief Operating Officer of the Company, on December 20, 2023, the Company entered into an amendment to the
+Cipriani Employment Agreement with Mr. Cipriani (the “Cipriani Amendment”), which is effective as of the Effective Date, that
+provides for an annual base salary of $390,000.
+2
+There are no family relationships between either
+of Mr. Frakes and Mr. Cipriani and any other director or executive officer of the Company that requires disclosure under Item 401(d) of
+Regulation S-K. Other than with respect to the Frakes Employment Agreement, as amended by the Frakes Amendment, and the Cipriani Employment
+Agreement, as amended by the Cipriani Amendment, respectively, there are no transactions between either of Mr. Frakes and Mr. Cipriani
+or any member of their respective immediate families, on the one hand, and the Company or any of its subsidiaries, on the other hand,
+that requires disclosure under Item 404(a) of Regulation S-K. Furthermore, there are no arrangements or understandings between either
+of Mr. Frakes and Mr. Cipriani and any other person pursuant to which either Mr. Frakes or Mr. Cipriani was selected to their applicable
+roles with the Company.
+The foregoing descriptions of each of the Frakes
+Amendment and the Cipriani Amendment are qualified in their entirety by reference to the full text of the Frakes Amendment and the Cipriani
+Amendment, respectively, which are filed as Exhibit 10.1 and Exhibit 10.2 to this Current Report on Form 8-K/A, respectively, and incorporated
+by reference herein.
+(d)
+Appointment of James B. Frakes as Director
+The information set forth in Item 5.02(c) above
+is incorporated by reference into this Item 5.02(d).
+Item 9.01 Financial Statements and Exhibits
+Exhibit No.
+Description
+10.1
+Amendment No. 1 to Executive Employment Agreement, effective as of November 7, 2023, by and between the Company and James B. Frakes
+10.2
+Amendment No. 1 to Executive Employment Agreement, effective as of November 7, 2023, by and between the Company and Guy F. Cipriani
+.
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Date: December 22, 2023
+Aethlon Medical, Inc.
+By:
+/s/ James B. Frakes
+Name:
+James B. Frakes
+Interim Chief Executive Officer and Chief Financial Officer
+4

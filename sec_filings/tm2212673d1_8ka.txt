@@ -1,0 +1,125 @@
+0001507957
+true
+Ideal Power Inc. (the "Company") is filing this Amendment No. 1 to amend the Company's Current Report on Form 8-K filed on March 14, 2022 (the "Prior 8-K") to update certain disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of the Prior 8-K is hereby supplemented and amended by the disclosure contained in Item 5.02 of this Amendment No. 1.
+0001507957
+2022-04-13
+2022-04-13
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K/A
+(Amendment No. 1)
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+April 13, 2022
+IDEAL POWER INC.
+(Exact name of registrant as specified in Charter)
+Delaware
+001-36216
+14-1999058
+(State or other jurisdiction of
+incorporation or organization)
+(Commission File No.)
+(IRS Employee Identification No.)
+5508 Highway 290 West
+,
+Suite 120
+Austin
+,
+Texas
+,
+78735
+(Address of Principal Executive Offices)
+512
+-
+264-1542
+(Issuer Telephone number)
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions (see General Instruction A.2 below).
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).
+¨
+Pre-commencement communications pursuant to Rule 13e-(c) under the Exchange Act (17 CFR 240.13(e)-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name
+of each exchange on which registered
+Common Stock
+IPWR
+Nasdaq
+Capital Market
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
+(17 CFR §240.12b-2).
+Emerging growth
+company
+¨
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+EXPLANATORY NOTE
+Ideal Power Inc. (the “Company”) is filing this Amendment
+No. 1 to amend the Company’s Current Report on Form 8-K filed on March 14, 2022 (the “Prior 8-K”) to update certain
+disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of the Prior 8-K is hereby supplemented and amended by the
+disclosure contained in Item 5.02 of this Amendment No. 1.
+Item 3.01.
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+The information set forth in Item 5.02 below is incorporated by reference
+herein.
+As previously disclosed, on January 13, 2022, the Company received
+correspondence from the Nasdaq Stock Market, Inc. (“Nasdaq”) noting that the Company was no longer in compliance with Nasdaq’s
+audit committee composition requirements as set forth in Listing Rule 5605(c)(2)(A), which requires the Company’s Audit Committee
+to be composed of at least three independent directors (the “Notice”). The Notice was the result of the passing of David B.
+Eisenhaure on October 21, 2021. The passing of Mr. Eisenhaure left the Audit Committee with only two independent directors.
+As a result of the Appointments (as defined below), the Company believes
+that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
+Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
+of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
+The Company is filing this Amendment No. 1 to report that, on April
+13, 2022, the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
+Committee and as a member of the Audit Committee and (ii) Mr. Knight as Chairperson of the Compensation Committee and as a member of each
+of the Audit Committee and the Nominating and Corporate Governance Committee. In connection therewith, the Board also voted to update
+the composition of the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee. Following these
+updates, the three standing committees of the Board are constituted as follows:
+Audit Committee
+Compensation Committee
+Nominating and Corporate
+Governance Committee
+Michael C. Turmelle
+(Chairperson)
+Greg Knight
+(Chairperson)
+Drue Freeman
+(Chairperson)
+Drue Freeman
+Ted Lesster
+Greg Knight
+Greg Knight
+Michael C. Turmelle
+Ted Lesster
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this Current Report to be signed on its behalf by the undersigned hereunto duly authorized.
+Dated: April 14, 2022
+IDEAL POWER INC.
+By:
+/s/ Timothy Burns
+Timothy Burns
+Chief Financial Officer

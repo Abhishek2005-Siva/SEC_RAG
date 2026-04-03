@@ -1,0 +1,134 @@
+true
+0001646188
+0001646188
+2026-03-09
+2026-03-09
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K/A
+(Amendment No. 1)
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities
+Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 9, 2026
+Ondas
+Inc.
+(Exact name of registrant as specified in its charter)
+Nevada
+001-39761
+47-2615102
+(State or Other jurisdiction of Incorporation)
+(Commission File Number)
+(IRS Employer Identification No.)
+222 Lakeview Avenue
+,
+Suite 800
+,
+West Palm Beach
+,
+Florida
+33401
+(Address of principal executive offices) (Zip Code)
+(
+888
+)
+350-9994
+(
+Registrant’s telephone number, including
+area code)
+N/A
+(Former name or former address, if changed since
+last report.)
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written
+                                            communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting
+                                            material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement
+                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement
+                                            communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, par value $0.0001
+ONDS
+The
+Nasdaq
+Stock Market LLC
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Explanatory note
+Ondas Inc. (the “Company”)
+is filing this Amendment No. 1 to its Current Report on Form 8-K originally filed with the Securities and Exchange Commission on March
+9, 2026 (the “Original Form 8-K”) solely to amend and update the preliminary results press release for the fourth quarter
+and full year 2025 furnished as Exhibit 99.1 thereto.
+Since the filing of the
+Original Form 8-K, management has completed additional financial close procedures and refined certain preliminary accounting
+estimates, specifically the net change in the fair value of the Company’s warrant liability which is expected to result in a
+net gain for the fourth quarter and full year 2025. As a result, the Company is revising its previously disclosed preliminary
+estimated ranges for net income (loss) and Adjusted EBITDA (non-GAAP) for the fourth quarter and full year 2025. The Company’s
+previously disclosed preliminary revenue ranges remain unchanged.
+The revised preliminary results press release furnished
+as Exhibit 99.1 to this Form 8-K/A supersedes and replaces in its entirety the preliminary results release previously furnished with
+the Original Form 8-K.
+This Form 8-K/A is being filed solely for the purpose described above and does not otherwise amend, modify,
+or update any other disclosures contained in the Original Form 8-K.
+1
+Forward-Looking
+Statements
+Statements
+made in this report that are not statements of historical or current facts are “forward-looking statements” within the meaning
+of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are, or may be deemed
+to be, forward-looking statements. The Company cautions readers that forward-looking statements are predictions based on the Company’s
+current expectations about future events. These forward-looking statements are not guarantees of future performance and are subject to
+risks, uncertainties and assumptions that are difficult to predict. The Company’s actual results, performance, or achievements could
+differ materially from those expressed or implied by the forward-looking statements as a result of a number of factors, including the
+risks discussed under the heading “Risk Factors” discussed under the caption “Item 1A. Risk Factors” in Part I
+of the Company’s most recent Annual Report on Form 10-K or any updates discussed under the caption “Item 1A. Risk Factors”
+in Part II of the Company’s Quarterly Reports on Form 10-Q and in the Company’s other filings with the SEC. The Company undertakes
+no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise
+that occur after that date, except as required by law.
+Item 9.01 Financial Statements and Exhibits
+.
+(d)
+Exhibits
+Exhibit No.
+Description
+99.1
+Press Release, dated March 20, 2026
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+2
+SIGNATURES
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+Date: March 20, 2026
+ONDAS INC.
+By:
+/s/
+    Eric A. Brock
+Eric A. Brock
+Chief Executive Officer
+3

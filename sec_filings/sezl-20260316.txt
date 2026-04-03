@@ -1,0 +1,86 @@
+sezl-20260316
+8-K
+0001662991
+FALSE
+0001662991
+2026-03-16
+2026-03-16
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 16, 2026
+Sezzle Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-41781
+81-0971660
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer
+Identification No.)
+700 Nicollet Mall
+Suite 640
+Minneapolis
+,
+MN
+55402
+(Address of principal executive offices, including zip code)
++1
+(
+651
+)
+240 6001
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $0.00001 per share
+SEZL
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Item 4.01.    Changes in Registrant’s Certifying Accountant
+(a) Dismissal of Independent Registered Public Accounting Firm
+On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.
+The audit reports of Baker Tilly on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2025 and 2024 did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles. The audit report of Baker Tilly on the effectiveness of internal control over financial reporting as of December 31, 2025 indicated the Company did not maintain effective internal control over financial reporting as of December 31, 2025, because of the effect of the material weaknesses, described below.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+The Audit Committee discussed the reportable event described above with Baker Tilly, and the Company has authorized Baker Tilly to respond fully to any inquiries from the Company’s successor independent registered public accounting firm concerning such reportable event.
+The Company has provided Baker Tilly with a copy of the disclosures made by the Company in response to this Item 4.01 and has requested that Baker Tilly furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company in response to this Item 4.01 and, if not, stating the respects in which it does not agree. A copy of the letter from Baker Tilly is filed as Exhibit 16.1 to this Current Report on Form 8-K.
+(b) Engagement of New Independent Registered Public Accounting Firm
+On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, neither the Company nor anyone acting on its behalf consulted PwC regarding: (i) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company’s financial statements, and no written report or oral advice was provided to the Company by PwC that was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue; or (ii) any matter that was either the subject of a disagreement, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, or a reportable event, as described in Item 304(a)(1)(v) of Regulation S-K.
+Item 9.01.    Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+16.1
+Letter from Baker Tilly US, LLP
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+SEZZLE INC.
+Dated: March 20, 2026
+By:
+/s/ Charles Youakim
+Charles Youakim
+Chief Executive Officer

@@ -1,0 +1,151 @@
+esgr-20220701
+Enstar Group LTD
+0001363829
+FALSE
+D0
+0001363829
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:CommonStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesDPreferredStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesEPreferredStockMember
+2022-07-01
+2022-07-01
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+July 1, 2022
+Enstar Group Limited
+(Exact name of registrant as specified in its charter)
+Bermuda
+001-33289
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+P.O. Box HM 2267
+,
+Windsor Place 3
+rd
+Floor
+22 Queen Street
+,
+Hamilton
+HM JX
+Bermuda
+N/A
+(Address of principal executive offices)                                    (Zip Code)
+Registrant’s telephone number, including area code: (
+441
+)
+292-3645
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Ordinary shares, par value $1.00 per share
+ESGR
+The NASDAQ Stock Market
+LLC
+Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Floating Rate
+ESGRP
+The NASDAQ Stock Market
+LLC
+Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.00 Per Share
+Depositary Shares, Each Representing a 1/1,000th Interest
+ESGRO
+The NASDAQ Stock Market
+LLC
+in a 7.00% Perpetual Non-Cumulative Preferred Share, Series E, Par Value $1.00 Per Share
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Retirement of President
+On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the "Company") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
+On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the "Letter Agreement") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.
+Except as set forth in the Letter Agreement, all other terms and conditions of Mr. O’Shea’s existing employment agreement will remain in full force and effect, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+, and is incorporated herein by reference.
+The foregoing description of the Letter Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Letter Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated into this Item 5.02 by reference.
+Amendment to Joint Share Ownership Plan Award
+On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the "JSOP Amendment") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the "JSOP Agreement"). Pursuant to the terms of the JSOP Agreement, Mr. Silvester holds an "Executive Interest" in 565,630 ordinary shares of the Company the value of which, if any, is determined based on the price of the Company’s ordinary shares appreciating above a certain threshold between the date of grant and the dates on which the Executive Interest vests (the "Vesting Date") and any value is realized (such arrangement, the “JSOP Award”).
+The JSOP Amendment amends the JSOP Agreement to change the scheduled Vesting Date from January 21, 2023 to January 21, 2025 so that the term of the JSOP Award more closely aligns with the term of Mr. Silvester's employment agreement, which ends on January 31, 2025. The JSOP Amendment preserves the compound annual growth rate used to determine the "Hurdle" price that must be achieved in order for the JSOP Award to have any value, thereby increasing the Hurdle from $266.00 to $315.53 as a result of the longer scheduled vesting period. As a result, following the JSOP Amendment, if the higher of the closing price for the Company’s ordinary shares on January 20, 2025 and the 10-day volume weighted average price for the Company’s ordinary shares for the ten consecutive trading days ending on January 20, 2025 (each, the "Market Price") is $315.53 or greater, the Executive Interest will have a value equal to the applicable Market Price, less $205.89, multiplied by 565,630. If the higher of the Market Prices is less than $315.53 on such date, the Executive Interest will have no value. In addition, 20% of the Executive Interest will only vest on the Vesting Date if the growth of the Company's fully diluted book value per ordinary share between January 1, 2020 and December 31, 2024 (extended by the JSOP Amendment from December 31, 2022) meets or exceeds a compound annual growth rate of 10%.
+1
+All other material terms and conditions contained in the JSOP Agreement remain unchanged by the JSOP Amendment, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+, and incorporated herein by reference.
+The foregoing description of the JSOP Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the JSOP Amendment, a copy of which is attached hereto as Exhibit 10.2 and is incorporated into this Item 5.02 by reference.
+Chief Executive Officer Employment Agreement
+In connection with entering into the JSOP Amendment, on July 1, 2022, the Company and Mr. Silvester also entered into an amended and restated employment agreement to effect certain changes related to the change in the scheduled vesting period of the JSOP Agreement (the “CEO Employment Amendment”).
+Mr. Silvester’s prior employment agreement provided him with certain payments with respect to the JSOP Agreement in the event his employment was terminated by the Company without “Cause,” by Mr. Silvester for “Good Reason” or as a result of Mr. Silvester’s death or disability, in each case, prior to the original Vesting Date.  In such cases, Mr. Silvester would have been entitled to receive $27.0 million if the Hurdle was not achieved on the original Vesting Date.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if Mr. Silvester’s employment is terminated for one of the reasons cited above before the new Vesting Date, this amount would increase on a straight-line interpolation basis based on the date of his termination from $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 and from $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025.  The amount was not changed if such termination events was not changed if such termination occurs prior to January 19, 2023.
+Mr. Silvester’s prior employment agreement also provided him with certain payments with respect to the JSOP Agreement in the event the Company undergoes a change of control prior to the original Vesting Date.  In such case, Mr. Silvester would have been entitled to receive $34.0 million if the Hurdle was met at the time of the change of control, and $27.0 million if the Hurdle was not met at such time.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if the Company undergoes a change of control before the new Vesting Date, this payment would increase on a straight-line interpolation basis based on the date of the change of control from $34.0 million on January 19, 2023 to $47.4 million on January 19, 2024 if the Hurdle is met at the time of the change of control, or $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 if the Hurdle is not met at the time of the change of control.  Similarly, this amount would further increase on a straight-line interpolation basis based on the date of the change of control from $47.4 million on January 19, 2024 to $62.0 million on January 19, 2025 if the Hurdle is met at the time of the change of control, or $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025 if the Hurdle is not met at the time of the change of control. The amount  was not changed if such change of control occurs prior to January 19, 2023.
+All other material terms and conditions contained in Mr. Silvester’s existing employment agreement remain unchanged by the CEO Employment Amendment, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+and Item 5.02 of the Company's Form 8-K filed on
+April 6, 2021
+, and are incorporated herein by reference.
+The foregoing description of the CEO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CEO Employment Agreement, a copy of which is attached hereto as Exhibit 10.3 and is incorporated into this Item 5.02 by reference.
+Amendment to Chief Financial Officer Employment Agreement
+On July 1, 2022, the Company entered into an amendment (the "CFO Employment Amendment") to the existing amended and restated employment agreement with Orla Gregory, dated as of January 21, 2020 and amended on September 16, 2021.
+2
+The Company entered into the CFO Employment Amendment in connection with Ms. Gregory's appointment to the position of Chief Financial Officer ("CFO"). Ms. Gregory has served as the Company’s Acting Chief Financial Officer since 2021 and the Company’s Chief Operating Officer since 2016. Ms. Gregory will no longer serve as the Company’s Chief Operating Officer following her permanent appointment to the role of CFO.  The Company will no longer have a principal operating officer, as Ms. Gregory’s previous responsibilities in this role will be covered by certain of the Company’s other executive officers. The CFO Employment Amendment also extended the term of Ms. Gregory’s existing employment agreement from March 1, 2023 to March 1, 2026.
+Except as set forth in the CFO Employment Amendment, all other terms and conditions of Ms. Gregory’s existing employment agreement will remain in full force and effect, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+and Item 5.02 of the Company's Form 8-K filed on
+September 21, 2021
+, and are incorporated herein by reference.
+The foregoing description of the CFO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CFO Employment Amendment, a copy of which is attached hereto as Exhibit 10.4 and is incorporated into this Item 5.02 by reference.
+Item 9.01. Financial Statements and Exhibits
+Exhibits
+Exhibit
+No.
+Description
+10.1
+Letter Agreement, dated July 6, 2022, between the Company and Paul O'Shea.
+10.2
+Deed of Amendment and Restatement to the Joint Ownership Agreement, dated July 1, 2022, between the Company, Dominic F. Silvester and Zedra Trust Company (Guernsey) Limited, as trustee.
+10.3
+Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Dominic F. Silvester.
+10.4
+Amendment No. 2 to the Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Orla Gregory.
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page information in formatted in Inline XBRL
+104
+Cover page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ENSTAR GROUP LIMITED
+July 6, 2022
+By:
+/s/ Audrey B. Taranto
+Audrey B. Taranto
+General Counsel and Corporate Secretary
