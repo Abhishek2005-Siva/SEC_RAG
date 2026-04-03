@@ -1,24 +1,36 @@
-CrossEncoderScore: -4.626180648803711
-VectorDistance: 1.1426060199737549
-BM25Score: None
-File: tm2212673d1_8ka.txt
-Chunk ID: 13
+CrossEncoderScore: -11.117253303527832
+VectorDistance: None
+BM25Score: 0.9145661496459265
+File: ea0282745-8ka1_ondas.txt
+Chunk ID: 12
 
-r of Listing.
-The information set forth in Item 5.02 below is incorporated by reference
-herein.
-As previously disclosed, on January 13, 2022, the Company received
-correspondence from the Nasdaq Stock Market, Inc. (“Nasdaq”) noting that the Company was no longer in compliance with Nasdaq’s
-audit committee composition requirements as set forth in Listing Rule 5605(c)(2)(A), which requires the Company’s Audit Committee
-to be composed of at least three independent directors (the “Notice”). The Notice was the result of the passing of David B.
-Eisenhaure on October 21, 2021. The passing of Mr. Eisenhaure left the Audit Committee with only two independent directors.
-As a result of the Appointments (as defined below), the Company believes
-that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
-Item 5.02.
-Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
-Officers; Compensatory Arrangements of Certain Officers.
-As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
-Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
-of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
-The Company is filing this Amendment No. 1 to report that, on April
-13, 2022, the Board appointed (the “Appointments”) (i) Mr.
+Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Explanatory note
+Ondas Inc. (the “Company”)
+is filing this Amendment No. 1 to its Current Report on Form 8-K originally filed with the Securities and Exchange Commission on March
+9, 2026 (the “Original Form 8-K”) solely to amend and update the preliminary results press release for the fourth quarter
+and full year 2025 furnished as Exhibit 99.1 thereto.
+Since the filing of the
+Original Form 8-K, management has completed additional financial close procedures and refined certain preliminary accounting
+estimates, specifically the net change in the fair value of the Company’s warrant liability which is expected to result in a
+net gain for the fourth quarter and full year 2025. As a result, the Company is revising its previously disclosed preliminary
+estimated ranges for net income (loss) and Adjusted EBITDA (non-GAAP) for the fourth quarter and full year 2025. The Company’s
+previously disclosed preliminary revenue ranges remain unchanged.
+The revised preliminary results press release furnished
+as Exhibit 99.1 to this Form 8-K/A supersedes and replaces in its entirety the preliminary results release previously furnished with
+the Original Form 8-K.
+This Form 8-K/A is being filed solely for the purpose described above and does not otherwise amend, modify,
+or update any other disclosures contained in the Original Form 8-K.
+1
+Forward-Looking
+Statements
+Statements
+made in this report that are not statements of historical or current facts are “forward-looking statements” within the meaning
+of the Private Securities Litigation Reform Act of 1995.

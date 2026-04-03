@@ -1,4 +1,4 @@
-def chunk_documents(text, chunk_size=1500, overlap=50):
+def chunk_documents(text, chunk_size=2000, overlap=50):
     chunks = []
     start = 0
     while start < len(text):

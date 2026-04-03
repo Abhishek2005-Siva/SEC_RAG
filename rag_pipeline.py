@@ -5,6 +5,7 @@ import os
 from chunking_documents import chunk_documents
 from vectordb import VectorDB
 from keyword_search import BM25KeywordSearch
+from llm_answer import generate_answer
 
 def load_documents(folder_path="sec_filings"):
     documents = []
@@ -76,6 +77,14 @@ def main():
         bm25s = cand.get('bm25_score', 'N/A')
         with open(f"answer/{idx}.txt", "w", encoding="utf-8") as f:
             f.write(f"CrossEncoderScore: {ce_score}\nVectorDistance: {dist}\nBM25Score: {bm25s}\nFile: {file}\nChunk ID: {chunk_id}\n\n{cand['chunk']}")
+
+    # Generate final answer using top-3 chunks via the LLM helper
+    try:
+        print("\n[7/7] Generating final answer with LLM (using top-3 chunks)...")
+        answer_text = generate_answer(query, k=3)
+        print("LLM answer written to answer/response.txt")
+    except Exception as e:
+        print(f"LLM generation failed: {e}")
 
     # --- Export all ChromaDB collections to Database Data folder ---
     export_dir = "Database Data"

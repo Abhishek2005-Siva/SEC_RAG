@@ -1,70 +1,63 @@
-CrossEncoderScore: -0.8221665620803833
-VectorDistance: None
-BM25Score: 11.186164079795926
-File: esgr-20220701.txt
-Chunk ID: 0
+CrossEncoderScore: -4.777077674865723
+VectorDistance: 1.303009271621704
+BM25Score: 2.5309558148832867
+File: sezl-20260316.txt
+Chunk ID: 14
 
-esgr-20220701
-Enstar Group LTD
-0001363829
+sezl-20260316
+8-K
+0001662991
 FALSE
-D0
-0001363829
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:CommonStockMember
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:SeriesDPreferredStockMember
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:SeriesEPreferredStockMember
-2022-07-01
-2022-07-01
+0001662991
+2026-03-16
+2026-03-16
 UNITED STATES
 SECURITIES AND EXCHANGE COMMISSION
 WASHINGTON, D.C. 20549
 FORM
 8-K
 CURRENT REPORT
-Pursuant to Section 13 or 15(d)
-of the Securities Exchange Act of 1934
-Date of report (Date of earliest event reported):
-July 1, 2022
-Enstar Group Limited
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+March 16, 2026
+Sezzle Inc.
 (Exact name of registrant as specified in its charter)
-Bermuda
-001-33289
-N/A
-(State or other jurisdiction
-of incorporation)
-(Commission
-File Number)
-(IRS Employer
+Delaware
+001-41781
+81-0971660
+(State or other jurisdiction of incorporation)
+(Commission File Number)
+(I.R.S. Employer
 Identification No.)
-P.O. Box HM 2267
+700 Nicollet Mall
+Suite 640
+Minneapolis
 ,
-Windsor Place 3
-rd
-Floor
-22 Queen Street
-,
-Hamilton
-HM JX
-Bermuda
-N/A
-(Address of principal executive offices)                                    (Zip Code)
-Registrant’s telephone number, including area code: (
-441
+MN
+55402
+(Address of principal executive offices, including zip code)
++1
+(
+651
 )
-292-3645
-Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+240 6001
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
 ☐
-Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
 ☐
-Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
 ☐
-Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $0.00001 per share
+SEZL
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).

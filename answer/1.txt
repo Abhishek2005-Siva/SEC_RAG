@@ -1,10 +1,15 @@
-CrossEncoderScore: 3.7252378463745117
-VectorDistance: 1.167028784751892
-BM25Score: 7.475707626374705
-File: esgr-20220701.txt
-Chunk ID: 2
+CrossEncoderScore: 4.367745399475098
+VectorDistance: 0.9505650997161865
+BM25Score: 9.12898448884916
+File: sezl-20260316.txt
+Chunk ID: 15
 
-rs; Compensatory Arrangements of Certain Officers.
-Retirement of President
-On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the "Company") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
-On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the "Letter Agreement") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Item 4.01.    Changes in Registrant’s Certifying Accountant
+(a) Dismissal of Independent Registered Public Accounting Firm
+On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.
+The audit reports of Baker Tilly on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2025 and 2024 did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles. The audit report of Baker Tilly on the effectiveness of internal control over financial reporting as of December 31, 2025 indicated the Company did not maintain effective internal control over financial reporting as of December 31, 2025, because of the effect of the material weaknesses, described below.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; an

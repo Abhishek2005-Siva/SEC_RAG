@@ -1,20 +1,24 @@
-CrossEncoderScore: 0.46894484758377075
-VectorDistance: 1.1524757146835327
-BM25Score: 7.8544386186813036
-File: esgr-20220701.txt
-Chunk ID: 10
+CrossEncoderScore: -0.706748366355896
+VectorDistance: 1.2908751964569092
+BM25Score: 3.124367132229337
+File: sezl-20260316.txt
+Chunk ID: 17
 
-uly 1, 2022, between the Company and Orla Gregory.
-101
-Pursuant to Rule 406 of Regulation S-T, the cover page information in formatted in Inline XBRL
+tion of its standard client acceptance procedures.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, neither the Company nor anyone acting on its behalf consulted PwC regarding: (i) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company’s financial statements, and no written report or oral advice was provided to the Company by PwC that was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue; or (ii) any matter that was either the subject of a disagreement, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, or a reportable event, as described in Item 304(a)(1)(v) of Regulation S-K.
+Item 9.01.    Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No.
+Description
+16.1
+Letter from Baker Tilly US, LLP
 104
-Cover page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)
-3
-SIGNATURES
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
-ENSTAR GROUP LIMITED
-July 6, 2022
+SEZZLE INC.
+Dated: March 20, 2026
 By:
-/s/ Audrey B. Taranto
-Audrey B. Taranto
-General Counsel and Corporate Secretary
+/s/ Charles Youakim
+Charles Youakim
+Chief Executive Officer

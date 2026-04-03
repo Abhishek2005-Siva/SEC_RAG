@@ -1,13 +1,11 @@
-CrossEncoderScore: -4.201252460479736
-VectorDistance: None
-BM25Score: 6.826341821029644
-File: esgr-20220701.txt
-Chunk ID: 3
+CrossEncoderScore: -8.325563430786133
+VectorDistance: 1.2420477867126465
+BM25Score: None
+File: sezl-20260316.txt
+Chunk ID: 16
 
-ntities in which the Company has made investments.
-Except as set forth in the Letter Agreement, all other terms and conditions of Mr. O’Shea’s existing employment agreement will remain in full force and effect, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
-January 27, 2020
-, and is incorporated herein by reference.
-The foregoing description of the Letter Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Letter Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated into this Item 5.02 by reference.
-Amendment to Joint Share Ownership Plan Award
-On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the "JSOP Amendment") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the "JSOP Agreement"). Pursuant to the terms of the JSOP Agreement, Mr.
+greements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+The Audit Committee discussed the reportable event described above with Baker Tilly, and the Company has authorized Baker Tilly to respond fully to any inquiries from the Company’s successor independent registered public accounting firm concerning such reportable event.
+The Company has provided Baker Tilly with a copy of the disclosures made by the Company in response to this Item 4.01 and has requested that Baker Tilly furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company in response to this Item 4.01 and, if not, stating the respects in which it does not agree. A copy of the letter from Baker Tilly is filed as Exhibit 16.1 to this Current Report on Form 8-K.
+(b) Engagement of New Independent Registered Public Accounting Firm
+On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.
