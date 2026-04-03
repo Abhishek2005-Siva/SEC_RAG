@@ -1,40 +1,70 @@
-CrossEncoderScore: -2.0534229278564453
-Score: 1.0976486206054688
-File: tm2212673d1_8ka.txt
-Chunk ID: 10
+CrossEncoderScore: -0.8221665620803833
+VectorDistance: None
+BM25Score: 11.186164079795926
+File: esgr-20220701.txt
+Chunk ID: 0
 
-rs; Compensatory Arrangements of Certain Officers.
-As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
-Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
-of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
-The Company is filing this Amendment No. 1 to report that, on April
-13, 2022, the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
-Committee and as a member of the Audit Committee and (ii) Mr. Knight as Chairperson of the Compensation Committee and as a member of each
-of the Audit Committee and the Nominating and Corporate Governance Committee. In connection therewith, the Board also voted to update
-the composition of the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee. Following these
-updates, the three standing committees of the Board are constituted as follows:
-Audit Committee
-Compensation Committee
-Nominating and Corporate
-Governance Committee
-Michael C. Turmelle
-(Chairperson)
-Greg Knight
-(Chairperson)
-Drue Freeman
-(Chairperson)
-Drue Freeman
-Ted Lesster
-Greg Knight
-Greg Knight
-Michael C. Turmelle
-Ted Lesster
-SIGNATURES
-Pursuant to the requirements of the Securities
-Exchange Act of 1934, the registrant has duly caused this Current Report to be signed on its behalf by the undersigned hereunto duly authorized.
-Dated: April 14, 2022
-IDEAL POWER INC.
-By:
-/s/ Timothy Burns
-Timothy Burns
-Chief Financial Officer
+esgr-20220701
+Enstar Group LTD
+0001363829
+FALSE
+D0
+0001363829
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:CommonStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesDPreferredStockMember
+2022-07-01
+2022-07-01
+0001363829
+us-gaap:SeriesEPreferredStockMember
+2022-07-01
+2022-07-01
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of report (Date of earliest event reported):
+July 1, 2022
+Enstar Group Limited
+(Exact name of registrant as specified in its charter)
+Bermuda
+001-33289
+N/A
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+P.O. Box HM 2267
+,
+Windsor Place 3
+rd
+Floor
+22 Queen Street
+,
+Hamilton
+HM JX
+Bermuda
+N/A
+(Address of principal executive offices)                                    (Zip Code)
+Registrant’s telephone number, including area code: (
+441
+)
+292-3645
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.

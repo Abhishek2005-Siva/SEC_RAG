@@ -1,25 +1,13 @@
-CrossEncoderScore: -3.6647210121154785
-Score: 1.2341161966323853
-File: aethlon_8ka.txt
-Chunk ID: 22
+CrossEncoderScore: -4.201252460479736
+VectorDistance: None
+BM25Score: 6.826341821029644
+File: esgr-20220701.txt
+Chunk ID: 3
 
-akes as Interim Chief Executive Officer
-and Guy F. Cipriani as Chief Operating Officer
-Effective as of the Effective Date, Mr. Frakes,
-Chief Financial Officer of the Company, was appointed as (i) Interim Chief Executive Officer of the Company, replacing Dr. Fisher, and
-(ii) a member of the Board of Directors of the Company (the “Board”). Mr. Frakes will additionally remain as Chief Financial
-Officer of the Company. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
-of the Company, (i) was appointed as the Company’s Senior Vice President and Chief Operating Officer and (ii) resigned from the
-Board.
-The biographies of Mr. Frakes and Mr. Cipriani
-are incorporated herein by reference to the “Information About Our Board of Directors and Executive Officers” section of the
-Company’s definitive proxy statement on Schedule 14A, filed with the SEC on July 27, 2023 (the “Proxy Statement”).
-On December 12, 2018, the Company entered into
-an executive employment agreement with Mr. Frakes (the “Frakes Employment Agreement”) that provided for an initial annual
-base salary of $260,000. Mr. Frakes’ annual base salary was increased by the Board to $360,000, effective January 1, 2023.
-In addition, the Frakes Employment Agreement provides that Mr. Frakes is eligible for an annual cash performance bonus for each year.
-Whether Mr. Frakes receives an annual bonus for any given year, and the amount of any such annual bonus, will be determined in the discretion
-of the Board (or the Compensation Committee thereof), based upon the Company’s and Mr. Frakes’ achievement of objectives and
-milestones to be determined on an annual basis by the Board (or Compensation Committee thereof). The Frakes Employment Agreement also
-provides that if Mr. Frakes’ employment is terminated without cause, or if he resigns for good reason (each as defined in the agreement),
-then Mr.
+ntities in which the Company has made investments.
+Except as set forth in the Letter Agreement, all other terms and conditions of Mr. O’Shea’s existing employment agreement will remain in full force and effect, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+, and is incorporated herein by reference.
+The foregoing description of the Letter Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Letter Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated into this Item 5.02 by reference.
+Amendment to Joint Share Ownership Plan Award
+On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the "JSOP Amendment") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the "JSOP Agreement"). Pursuant to the terms of the JSOP Agreement, Mr.

@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer
 import numpy as np
 
 # Load pre-trained SBERT model
-model = SentenceTransformer('all-MiniLM-L6-v2')  # fast + good baseline
+model = SentenceTransformer('all-MiniLM-L12-v2')  # fast + good baseline
 
 import os
 

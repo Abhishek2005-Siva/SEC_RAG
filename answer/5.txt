@@ -1,19 +1,24 @@
-CrossEncoderScore: -3.697803497314453
-Score: 1.2107913494110107
-File: hope-20260319.txt
-Chunk ID: 19
+CrossEncoderScore: -4.626180648803711
+VectorDistance: 1.1426060199737549
+BM25Score: None
+File: tm2212673d1_8ka.txt
+Chunk ID: 13
 
-to Section 13(a) of the Exchange Act.
-☐
-Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
-On March 19, 2026, David P. Malone, a member of the board of directors (the “Board”) of Hope Bancorp, Inc. (the “Company”), notified the Company that he intends to retire from the Board effective as of the Company’s 2026 Annual Meeting of Stockholders (the “Annual Meeting”) and will therefore not stand for re-election to the Board at the Annual Meeting. Mr. Malone will continue to serve as a director and as chair of the Board Risk Committee until the completion of his term.
-On March 19, 2026, Lisa K. Pai, a member of the Board of the Company, notified the Company that she intends to retire from the Board effective as of the Annual Meeting and will therefore not stand for re-election to the Board at the Annual Meeting.  Ms. Pai will continue to serve as a director and as a member of the Board Risk Committee and Executive Committee until the completion of her term.
-The decisions of Mr. Malone and Ms. Pai to retire from the Board were not the result, in whole or in part, of any disagreement relating to the Company’s operations, policies or practices. The Company would like to thank Mr. Malone and Ms. Pai for their years of dedication and service to the Company.
-SIGNATURES
-Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
-HOPE BANCORP, INC.
-Date:  March 20, 2026
-By:
-/s/ Kevin S. Kim
-Kevin S. Kim
-Chairman, President and Chief Executive Officer
+r of Listing.
+The information set forth in Item 5.02 below is incorporated by reference
+herein.
+As previously disclosed, on January 13, 2022, the Company received
+correspondence from the Nasdaq Stock Market, Inc. (“Nasdaq”) noting that the Company was no longer in compliance with Nasdaq’s
+audit committee composition requirements as set forth in Listing Rule 5605(c)(2)(A), which requires the Company’s Audit Committee
+to be composed of at least three independent directors (the “Notice”). The Notice was the result of the passing of David B.
+Eisenhaure on October 21, 2021. The passing of Mr. Eisenhaure left the Audit Committee with only two independent directors.
+As a result of the Appointments (as defined below), the Company believes
+that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
+Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
+of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
+The Company is filing this Amendment No. 1 to report that, on April
+13, 2022, the Board appointed (the “Appointments”) (i) Mr.

@@ -53,6 +53,36 @@ What the pipeline does (high-level):
 - Writes the top-5 re-ranked passages into the `answer/` folder (`answer/1.txt` ... `answer/5.txt`).
 - Exports each ChromaDB collection as CSV files in `Database Data/` on every run.
 
+## Reranker (BM25 + Semantic + Cross-Encoder)
+- A dedicated `reranker.py` module merges candidates from both BM25 and the semantic vector DB, deduplicates them, and uses the `cross_encoder.py` model to re-rank.
+- Default behavior in `rag_pipeline.py`:
+  - Merge up to 200 candidates from BM25 + semantic search.
+  - Re-rank the merged pool with the cross-encoder and return the top 10 results (configurable in `reranker.py` / `rag_pipeline.py`).
+- Files involved:
+  - `reranker.py` — merging and reranking logic
+  - `cross_encoder.py` — loads a HuggingFace cross-encoder and scores (query, passage) pairs
+  - `vectordb.py` — handles ChromaDB indexing and retrieval
+  - `keyword_search.py` — BM25 wrapper
+
+### Config knobs you may change
+- `reranker.merge_candidates(..., top_k=200)` controls the candidate pool size returned to the cross-encoder.
+- `reranker.rerank(..., top_k=10)` controls how many final top results to return.
+- Cross-encoder model selection can be changed in `cross_encoder.py` by replacing the `model_name`.
+
+## Example commands
+Activate venv and run pipeline (typical):
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 rag_pipeline.py
+```
+
+Run the debug exporter (export all Chroma collections to `Database Data`):
+```bash
+python3 debug_database.py
+```
+
 ## Cross-encoder & Scoring
 - The pipeline uses a cross-encoder (`cross_encoder.py`) to re-rank candidates returned by the vector DB. Cross-encoder scores are higher for more relevant (query, passage) pairs.
 - ChromaDB returns a `distance` value where **lower = more similar**. The cross-encoder score is a separate scalar where **higher = more relevant**.

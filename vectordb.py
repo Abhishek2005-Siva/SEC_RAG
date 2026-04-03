@@ -5,7 +5,7 @@ class VectorDB:
     def __init__(self, db_path="./chroma_db", collection_name="rag_chunks"):
         self.client = chromadb.PersistentClient(path=db_path)
         self.collection = self.client.get_or_create_collection(collection_name)
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')
+        self.model = SentenceTransformer('all-MiniLM-L12-v2')
 
     def add_chunks(self, chunks, chunk_sources, filenames, documents):
         # Always clear and re-add all chunks to ensure metadata is correct

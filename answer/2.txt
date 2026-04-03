@@ -1,20 +1,20 @@
-CrossEncoderScore: -1.0289767980575562
-Score: 1.2635211944580078
+CrossEncoderScore: 0.46894484758377075
+VectorDistance: 1.1524757146835327
+BM25Score: 7.8544386186813036
 File: esgr-20220701.txt
-Chunk ID: 1
+Chunk ID: 10
 
-umulative Preferred Share, Series D, Par Value $1.00 Per Share
-Depositary Shares, Each Representing a 1/1,000th Interest
-ESGRO
-The NASDAQ Stock Market
-LLC
-in a 7.00% Perpetual Non-Cumulative Preferred Share, Series E, Par Value $1.00 Per Share
-Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
-Emerging Growth Company
-☐
-If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
-☐
-Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
-Retirement of President
-On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the "Company") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
-On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the "Letter Agreement") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr.
+uly 1, 2022, between the Company and Orla Gregory.
+101
+Pursuant to Rule 406 of Regulation S-T, the cover page information in formatted in Inline XBRL
+104
+Cover page Interactive Data File (embedded within the Inline XBRL document and included in Exhibit 101)
+3
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ENSTAR GROUP LIMITED
+July 6, 2022
+By:
+/s/ Audrey B. Taranto
+Audrey B. Taranto
+General Counsel and Corporate Secretary

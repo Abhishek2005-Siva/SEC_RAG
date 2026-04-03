@@ -1,84 +1,10 @@
-CrossEncoderScore: -0.6931712627410889
-Score: 1.2667834758758545
+CrossEncoderScore: 3.7252378463745117
+VectorDistance: 1.167028784751892
+BM25Score: 7.475707626374705
 File: esgr-20220701.txt
-Chunk ID: 0
+Chunk ID: 2
 
-esgr-20220701
-Enstar Group LTD
-0001363829
-FALSE
-D0
-0001363829
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:CommonStockMember
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:SeriesDPreferredStockMember
-2022-07-01
-2022-07-01
-0001363829
-us-gaap:SeriesEPreferredStockMember
-2022-07-01
-2022-07-01
-UNITED STATES
-SECURITIES AND EXCHANGE COMMISSION
-WASHINGTON, D.C. 20549
-FORM
-8-K
-CURRENT REPORT
-Pursuant to Section 13 or 15(d)
-of the Securities Exchange Act of 1934
-Date of report (Date of earliest event reported):
-July 1, 2022
-Enstar Group Limited
-(Exact name of registrant as specified in its charter)
-Bermuda
-001-33289
-N/A
-(State or other jurisdiction
-of incorporation)
-(Commission
-File Number)
-(IRS Employer
-Identification No.)
-P.O. Box HM 2267
-,
-Windsor Place 3
-rd
-Floor
-22 Queen Street
-,
-Hamilton
-HM JX
-Bermuda
-N/A
-(Address of principal executive offices)                                    (Zip Code)
-Registrant’s telephone number, including area code: (
-441
-)
-292-3645
-Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
-☐
-Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
-☐
-Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
-☐
-Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
-☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
-Securities registered pursuant to Section 12(b) of the Act:
-Title of Each Class
-Trading Symbol(s)
-Name of Each Exchange on Which Registered
-Ordinary shares, par value $1.00 per share
-ESGR
-The NASDAQ Stock Market
-LLC
-Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Floating Rate
-ESGRP
-The NASDAQ Stock Market
-LLC
-Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.
+rs; Compensatory Arrangements of Certain Officers.
+Retirement of President
+On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the "Company") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
+On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the "Letter Agreement") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.

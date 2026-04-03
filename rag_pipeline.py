@@ -1,4 +1,5 @@
 from cross_encoder import CrossEncoder
+from reranker import Reranker
 import pandas as pd
 import os
 from chunking_documents import chunk_documents
@@ -50,32 +51,31 @@ def main():
     print("\nTop BM25 Keyword Results:")
     for i, (chunk, source, score, chunk_id) in enumerate(bm25_results, 1):
         print(f"\n[{i}] {source} (score={score:.4f})\n{chunk[:300]}...")
-    print("\nTop Semantic Results (before cross-encoder re-ranking):")
+
+    print("\nTop Semantic Results (vector db candidates):")
     for i, (chunk, meta, score) in enumerate(semantic_results, 1):
-        print(f"\n[{i}] {meta['source']} (distance={score:.4f})\n{chunk[:300]}...")
+        print(f"\n[{i}] {meta.get('source','N/A')} (distance={score:.4f})\n{chunk[:300]}...")
 
-    # Cross-encoder re-ranking
-    print("\n[Cross-Encoder] Re-ranking top semantic results ...")
-    cross_encoder = CrossEncoder()
-    passages = [chunk for chunk, meta, score in semantic_results]
-    ce_scores = cross_encoder.score(query, passages)
-    # Attach cross-encoder scores and sort
-    reranked = sorted(zip(semantic_results, ce_scores), key=lambda x: -x[1])
-    print("\nTop Semantic Results (after cross-encoder re-ranking):")
-    for i, ((chunk, meta, score), ce_score) in enumerate(reranked, 1):
-        print(f"\n[{i}] {meta['source']} (distance={score:.4f}, cross-enc={ce_score:.4f})\n{chunk[:300]}...")
-    # Print the most relevant context (top cross-encoder result)
-    if reranked:
-        print("\nMost relevant context (cross-encoder):\n")
-        print(reranked[0][0][0])
+    # Merge candidates and rerank using cross-encoder
+    print("\n[Merging] Combining BM25 + semantic candidates and re-ranking with Cross-Encoder...")
+    reranker = Reranker()
+    # Merge top N candidates from both sources (use 50 as default pool)
+    merged = reranker.merge_candidates(bm25_results, semantic_results, top_k=200)
+    reranked = reranker.rerank(query, merged, top_k=10)
 
-    # Save top 5 cross-encoder results to answer/[1-5].txt
+    print("\nTop Results (after cross-encoder re-ranking):")
+    for i, (cand, ce_score) in enumerate(reranked, 1):
+        print(f"\n[{i}] {cand['source']} (chunk_id={cand.get('chunk_id','N/A')}, cross-enc={ce_score:.4f}, dist={cand.get('dist')})\n{cand['chunk'][:300]}...")
+
+    # Save top 5 re-ranked results to answer/[1-5].txt
     os.makedirs("answer", exist_ok=True)
-    for idx, ((chunk, meta, score), ce_score) in enumerate(reranked[:5], 1):
-        file = meta.get('source', 'N/A')
-        chunk_id = meta.get('chunk_id', 'N/A')
+    for idx, (cand, ce_score) in enumerate(reranked[:5], 1):
+        file = cand.get('source', 'N/A')
+        chunk_id = cand.get('chunk_id', 'N/A')
+        dist = cand.get('dist', 'N/A')
+        bm25s = cand.get('bm25_score', 'N/A')
         with open(f"answer/{idx}.txt", "w", encoding="utf-8") as f:
-            f.write(f"CrossEncoderScore: {ce_score}\nScore: {score}\nFile: {file}\nChunk ID: {chunk_id}\n\n{chunk}")
+            f.write(f"CrossEncoderScore: {ce_score}\nVectorDistance: {dist}\nBM25Score: {bm25s}\nFile: {file}\nChunk ID: {chunk_id}\n\n{cand['chunk']}")
 
     # --- Export all ChromaDB collections to Database Data folder ---
     export_dir = "Database Data"

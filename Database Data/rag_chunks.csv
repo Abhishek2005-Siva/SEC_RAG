@@ -1,4 +1,4 @@
-id,text,source,chunk_index,chunk_id,chunk_text,document_id
+id,text,chunk_id,document_id,chunk_text,chunk_index,source
 chunk_0,"esgr-20220701
 Enstar Group LTD
 0001363829
@@ -62,22 +62,7 @@ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 23
 ☐
 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
 ☐
-Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
-☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
-Securities registered pursuant to Section 12(b) of the Act:
-Title of Each Class
-Trading Symbol(s)
-Name of Each Exchange on Which Registered
-Ordinary shares, par value $1.00 per share
-ESGR
-The NASDAQ Stock Market
-LLC
-Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Floating Rate
-ESGRP
-The NASDAQ Stock Market
-LLC
-Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.",esgr-20220701.txt,0,0,"esgr-20220701
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.",0,0,"esgr-20220701
 Enstar Group LTD
 0001363829
 FALSE
@@ -140,7 +125,8 @@ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 23
 ☐
 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
 ☐
-Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.",0,esgr-20220701.txt
+chunk_1,"Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 Securities registered pursuant to Section 12(b) of the Act:
@@ -155,8 +141,7 @@ Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Fl
 ESGRP
 The NASDAQ Stock Market
 LLC
-Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.",0
-chunk_1,"umulative Preferred Share, Series D, Par Value $1.00 Per Share
+Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.00 Per Share
 Depositary Shares, Each Representing a 1/1,000th Interest
 ESGRO
 The NASDAQ Stock Market
@@ -167,10 +152,22 @@ Emerging Growth Company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 ☐
-Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
-Retirement of President
-On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the ""Company"") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
-On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the ""Letter Agreement"") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr.",esgr-20220701.txt,0,1,"umulative Preferred Share, Series D, Par Value $1.00 Per Share
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",1,0,"Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Ordinary shares, par value $1.00 per share
+ESGR
+The NASDAQ Stock Market
+LLC
+Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Fixed-to-Floating Rate
+ESGRP
+The NASDAQ Stock Market
+LLC
+Perpetual Non-Cumulative Preferred Share, Series D, Par Value $1.00 Per Share
 Depositary Shares, Each Representing a 1/1,000th Interest
 ESGRO
 The NASDAQ Stock Market
@@ -181,63 +178,79 @@ Emerging Growth Company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 ☐
-Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",0,esgr-20220701.txt
+chunk_2,"rs; Compensatory Arrangements of Certain Officers.
 Retirement of President
 On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the ""Company"") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
-On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the ""Letter Agreement"") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr.",0
-chunk_2,"outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.
+On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the ""Letter Agreement"") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.",2,0,"rs; Compensatory Arrangements of Certain Officers.
+Retirement of President
+On July 1, 2022, Paul O'Shea informed Enstar Group Limited (the ""Company"") of his intention to retire from the position of President following the expiration of his current term of employment on March 1, 2023. The Company expects that Mr. O'Shea will remain on the board of directors of the Company following his departure from the role of President.
+On July 6, 2022, in connection with Mr. O'Shea's intention to retire, the Company entered into a letter agreement (the ""Letter Agreement"") with Mr. O'Shea setting out the terms pursuant to which Mr. O'Shea and the Company have agreed to operate in light of his planned retirement. Pursuant to the Letter Agreement, Mr. O'Shea will serve as President of the Company until his retirement on March 1, 2023, during which time he will continue to receive his current base salary. Mr. O'Shea will also remain eligible to receive an award pursuant to the Company's Annual Incentive Program for the year ending December 31, 2022, and outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.",0,esgr-20220701.txt
+chunk_3,"ntities in which the Company has made investments.
 Except as set forth in the Letter Agreement, all other terms and conditions of Mr. O’Shea’s existing employment agreement will remain in full force and effect, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 , and is incorporated herein by reference.
 The foregoing description of the Letter Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Letter Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated into this Item 5.02 by reference.
 Amendment to Joint Share Ownership Plan Award
-On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the ""JSOP Amendment"") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the ""JSOP Agreement""). Pursuant to the terms of the JSOP Agreement, Mr. Silvester holds an ""Executive Interest"" in 565,630 ordinary shares of the Company the value of which, if any, is determined based on the price of the Company’s ordinary shares appreciating above a certain threshold between the date of grant and the dates on which the Executive Interest vests (the ""Vesting Date"") and any value is realized (such arrangement, the “JSOP Award”).",esgr-20220701.txt,0,2,"outstanding equity incentive awards granted to Mr. O'Shea will continue to vest through March 1, 2023 in accordance with their terms. Mr. O'Shea and his spouse will also remain eligible for comprehensive medical and dental coverage during his retirement, and Mr. O’Shea will be entitled to receive appropriate fees for his service as the Company’s representative director for certain entities in which the Company has made investments.
+On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the ""JSOP Amendment"") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the ""JSOP Agreement""). Pursuant to the terms of the JSOP Agreement, Mr.",3,0,"ntities in which the Company has made investments.
 Except as set forth in the Letter Agreement, all other terms and conditions of Mr. O’Shea’s existing employment agreement will remain in full force and effect, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 , and is incorporated herein by reference.
 The foregoing description of the Letter Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the Letter Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated into this Item 5.02 by reference.
 Amendment to Joint Share Ownership Plan Award
-On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the ""JSOP Amendment"") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the ""JSOP Agreement""). Pursuant to the terms of the JSOP Agreement, Mr. Silvester holds an ""Executive Interest"" in 565,630 ordinary shares of the Company the value of which, if any, is determined based on the price of the Company’s ordinary shares appreciating above a certain threshold between the date of grant and the dates on which the Executive Interest vests (the ""Vesting Date"") and any value is realized (such arrangement, the “JSOP Award”).",0
-chunk_3,"is realized (such arrangement, the “JSOP Award”).
-The JSOP Amendment amends the JSOP Agreement to change the scheduled Vesting Date from January 21, 2023 to January 21, 2025 so that the term of the JSOP Award more closely aligns with the term of Mr. Silvester's employment agreement, which ends on January 31, 2025. The JSOP Amendment preserves the compound annual growth rate used to determine the ""Hurdle"" price that must be achieved in order for the JSOP Award to have any value, thereby increasing the Hurdle from $266.00 to $315.53 as a result of the longer scheduled vesting period. As a result, following the JSOP Amendment, if the higher of the closing price for the Company’s ordinary shares on January 20, 2025 and the 10-day volume weighted average price for the Company’s ordinary shares for the ten consecutive trading days ending on January 20, 2025 (each, the ""Market Price"") is $315.53 or greater, the Executive Interest will have a value equal to the applicable Market Price, less $205.89, multiplied by 565,630. If the higher of the Market Prices is less than $315.53 on such date, the Executive Interest will have no value. In addition, 20% of the Executive Interest will only vest on the Vesting Date if the growth of the Company's fully diluted book value per ordinary share between January 1, 2020 and December 31, 2024 (extended by the JSOP Amendment from December 31, 2022) meets or exceeds a compound annual growth rate of 10%.
+On July 1, 2022, the Company entered into a Deed of Amendment and Restatement (the ""JSOP Amendment"") with Dominic Silvester, the Company's Chief Executive Officer, and Zedra Trust Company (Guernsey) Limited, in its capacity as trustee of the Enstar Group Limited Employee Benefit Trust, with respect to the Joint Ownership Agreement among the same parties dated as of January 21, 2020 (the ""JSOP Agreement""). Pursuant to the terms of the JSOP Agreement, Mr.",0,esgr-20220701.txt
+chunk_4,". Pursuant to the terms of the JSOP Agreement, Mr. Silvester holds an ""Executive Interest"" in 565,630 ordinary shares of the Company the value of which, if any, is determined based on the price of the Company’s ordinary shares appreciating above a certain threshold between the date of grant and the dates on which the Executive Interest vests (the ""Vesting Date"") and any value is realized (such arrangement, the “JSOP Award”).
+The JSOP Amendment amends the JSOP Agreement to change the scheduled Vesting Date from January 21, 2023 to January 21, 2025 so that the term of the JSOP Award more closely aligns with the term of Mr. Silvester's employment agreement, which ends on January 31, 2025. The JSOP Amendment preserves the compound annual growth rate used to determine the ""Hurdle"" price that must be achieved in order for the JSOP Award to have any value, thereby increasing the Hurdle from $266.00 to $315.53 as a result of the longer scheduled vesting period. As a result, following the JSOP Amendment, if the higher of the closing price for the Company’s ordinary shares on January 20, 2025 and the 10-day volume weighted average price for the Company’s ordinary shares for the ten consecutive trading days ending on January 20, 2025 (each, the ""Market Price"") is $315.53 or greater, the Executive Interest will have a value equal to the applicable Market Price, less $205.89, multiplied by 565,630. If the higher of the Market Prices is less than $315.",4,0,". Pursuant to the terms of the JSOP Agreement, Mr. Silvester holds an ""Executive Interest"" in 565,630 ordinary shares of the Company the value of which, if any, is determined based on the price of the Company’s ordinary shares appreciating above a certain threshold between the date of grant and the dates on which the Executive Interest vests (the ""Vesting Date"") and any value is realized (such arrangement, the “JSOP Award”).
+The JSOP Amendment amends the JSOP Agreement to change the scheduled Vesting Date from January 21, 2023 to January 21, 2025 so that the term of the JSOP Award more closely aligns with the term of Mr. Silvester's employment agreement, which ends on January 31, 2025. The JSOP Amendment preserves the compound annual growth rate used to determine the ""Hurdle"" price that must be achieved in order for the JSOP Award to have any value, thereby increasing the Hurdle from $266.00 to $315.53 as a result of the longer scheduled vesting period. As a result, following the JSOP Amendment, if the higher of the closing price for the Company’s ordinary shares on January 20, 2025 and the 10-day volume weighted average price for the Company’s ordinary shares for the ten consecutive trading days ending on January 20, 2025 (each, the ""Market Price"") is $315.53 or greater, the Executive Interest will have a value equal to the applicable Market Price, less $205.89, multiplied by 565,630. If the higher of the Market Prices is less than $315.",0,esgr-20220701.txt
+chunk_5,"the higher of the Market Prices is less than $315.53 on such date, the Executive Interest will have no value. In addition, 20% of the Executive Interest will only vest on the Vesting Date if the growth of the Company's fully diluted book value per ordinary share between January 1, 2020 and December 31, 2024 (extended by the JSOP Amendment from December 31, 2022) meets or exceeds a compound annual growth rate of 10%.
 1
 All other material terms and conditions contained in the JSOP Agreement remain unchanged by the JSOP Amendment, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 , and incorporated herein by reference.
-The foregoing description of the JSOP Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the JSOP Amendment, a copy of which is attached hereto as Exhibit 10.2 and is incorporated into this Item 5.",esgr-20220701.txt,0,3,"is realized (such arrangement, the “JSOP Award”).
-The JSOP Amendment amends the JSOP Agreement to change the scheduled Vesting Date from January 21, 2023 to January 21, 2025 so that the term of the JSOP Award more closely aligns with the term of Mr. Silvester's employment agreement, which ends on January 31, 2025. The JSOP Amendment preserves the compound annual growth rate used to determine the ""Hurdle"" price that must be achieved in order for the JSOP Award to have any value, thereby increasing the Hurdle from $266.00 to $315.53 as a result of the longer scheduled vesting period. As a result, following the JSOP Amendment, if the higher of the closing price for the Company’s ordinary shares on January 20, 2025 and the 10-day volume weighted average price for the Company’s ordinary shares for the ten consecutive trading days ending on January 20, 2025 (each, the ""Market Price"") is $315.53 or greater, the Executive Interest will have a value equal to the applicable Market Price, less $205.89, multiplied by 565,630. If the higher of the Market Prices is less than $315.53 on such date, the Executive Interest will have no value. In addition, 20% of the Executive Interest will only vest on the Vesting Date if the growth of the Company's fully diluted book value per ordinary share between January 1, 2020 and December 31, 2024 (extended by the JSOP Amendment from December 31, 2022) meets or exceeds a compound annual growth rate of 10%.
+The foregoing description of the JSOP Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the JSOP Amendment, a copy of which is attached hereto as Exhibit 10.2 and is incorporated into this Item 5.02 by reference.
+Chief Executive Officer Employment Agreement
+In connection with entering into the JSOP Amendment, on July 1, 2022, the Company and Mr. Silvester also entered into an amended and restated employment agreement to effect certain changes related to the change in the scheduled vesting period of the JSOP Agreement (the “CEO Employment Amendment”).
+Mr.",5,0,"the higher of the Market Prices is less than $315.53 on such date, the Executive Interest will have no value. In addition, 20% of the Executive Interest will only vest on the Vesting Date if the growth of the Company's fully diluted book value per ordinary share between January 1, 2020 and December 31, 2024 (extended by the JSOP Amendment from December 31, 2022) meets or exceeds a compound annual growth rate of 10%.
 1
 All other material terms and conditions contained in the JSOP Agreement remain unchanged by the JSOP Amendment, and a description of such terms and conditions is included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 , and incorporated herein by reference.
-The foregoing description of the JSOP Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the JSOP Amendment, a copy of which is attached hereto as Exhibit 10.2 and is incorporated into this Item 5.",0
-chunk_4,"Exhibit 10.2 and is incorporated into this Item 5.02 by reference.
+The foregoing description of the JSOP Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the JSOP Amendment, a copy of which is attached hereto as Exhibit 10.2 and is incorporated into this Item 5.02 by reference.
 Chief Executive Officer Employment Agreement
 In connection with entering into the JSOP Amendment, on July 1, 2022, the Company and Mr. Silvester also entered into an amended and restated employment agreement to effect certain changes related to the change in the scheduled vesting period of the JSOP Agreement (the “CEO Employment Amendment”).
+Mr.",0,esgr-20220701.txt
+chunk_6,"OP Agreement (the “CEO Employment Amendment”).
 Mr. Silvester’s prior employment agreement provided him with certain payments with respect to the JSOP Agreement in the event his employment was terminated by the Company without “Cause,” by Mr. Silvester for “Good Reason” or as a result of Mr. Silvester’s death or disability, in each case, prior to the original Vesting Date.  In such cases, Mr. Silvester would have been entitled to receive $27.0 million if the Hurdle was not achieved on the original Vesting Date.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if Mr. Silvester’s employment is terminated for one of the reasons cited above before the new Vesting Date, this amount would increase on a straight-line interpolation basis based on the date of his termination from $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 and from $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025.  The amount was not changed if such termination events was not changed if such termination occurs prior to January 19, 2023.
-Mr. Silvester’s prior employment agreement also provided him with certain payments with respect to the JSOP Agreement in the event the Company undergoes a change of control prior to the original Vesting Date.  In such case, Mr. Silvester would have been entitled to receive $34.0 million if the Hurdle was met at the time of the change of control, and $27.0 million if the Hurdle was not met at such time.",esgr-20220701.txt,0,4,"Exhibit 10.2 and is incorporated into this Item 5.02 by reference.
-Chief Executive Officer Employment Agreement
-In connection with entering into the JSOP Amendment, on July 1, 2022, the Company and Mr. Silvester also entered into an amended and restated employment agreement to effect certain changes related to the change in the scheduled vesting period of the JSOP Agreement (the “CEO Employment Amendment”).
+Mr. Silvester’s prior employment agreement also provided him with certain payments with respect to the JSOP Agreement in the event the Company undergoes a change of control prior to the original Vesting Date.  In such case, Mr. Silvester would have been entitled to receive $34.0 million if the Hurdle was met at the time of the change of control, and $27.",6,0,"OP Agreement (the “CEO Employment Amendment”).
 Mr. Silvester’s prior employment agreement provided him with certain payments with respect to the JSOP Agreement in the event his employment was terminated by the Company without “Cause,” by Mr. Silvester for “Good Reason” or as a result of Mr. Silvester’s death or disability, in each case, prior to the original Vesting Date.  In such cases, Mr. Silvester would have been entitled to receive $27.0 million if the Hurdle was not achieved on the original Vesting Date.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if Mr. Silvester’s employment is terminated for one of the reasons cited above before the new Vesting Date, this amount would increase on a straight-line interpolation basis based on the date of his termination from $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 and from $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025.  The amount was not changed if such termination events was not changed if such termination occurs prior to January 19, 2023.
-Mr. Silvester’s prior employment agreement also provided him with certain payments with respect to the JSOP Agreement in the event the Company undergoes a change of control prior to the original Vesting Date.  In such case, Mr. Silvester would have been entitled to receive $34.0 million if the Hurdle was met at the time of the change of control, and $27.0 million if the Hurdle was not met at such time.",0
-chunk_5,".0 million if the Hurdle was not met at such time.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if the Company undergoes a change of control before the new Vesting Date, this payment would increase on a straight-line interpolation basis based on the date of the change of control from $34.0 million on January 19, 2023 to $47.4 million on January 19, 2024 if the Hurdle is met at the time of the change of control, or $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 if the Hurdle is not met at the time of the change of control.  Similarly, this amount would further increase on a straight-line interpolation basis based on the date of the change of control from $47.4 million on January 19, 2024 to $62.0 million on January 19, 2025 if the Hurdle is met at the time of the change of control, or $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025 if the Hurdle is not met at the time of the change of control. The amount  was not changed if such change of control occurs prior to January 19, 2023.
+Mr. Silvester’s prior employment agreement also provided him with certain payments with respect to the JSOP Agreement in the event the Company undergoes a change of control prior to the original Vesting Date.  In such case, Mr. Silvester would have been entitled to receive $34.0 million if the Hurdle was met at the time of the change of control, and $27.",0,esgr-20220701.txt
+chunk_7,"met at the time of the change of control, and $27.0 million if the Hurdle was not met at such time.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if the Company undergoes a change of control before the new Vesting Date, this payment would increase on a straight-line interpolation basis based on the date of the change of control from $34.0 million on January 19, 2023 to $47.4 million on January 19, 2024 if the Hurdle is met at the time of the change of control, or $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 if the Hurdle is not met at the time of the change of control.  Similarly, this amount would further increase on a straight-line interpolation basis based on the date of the change of control from $47.4 million on January 19, 2024 to $62.0 million on January 19, 2025 if the Hurdle is met at the time of the change of control, or $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025 if the Hurdle is not met at the time of the change of control. The amount  was not changed if such change of control occurs prior to January 19, 2023.
 All other material terms and conditions contained in Mr. Silvester’s existing employment agreement remain unchanged by the CEO Employment Amendment, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+and Item 5.",7,0,"met at the time of the change of control, and $27.0 million if the Hurdle was not met at such time.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if the Company undergoes a change of control before the new Vesting Date, this payment would increase on a straight-line interpolation basis based on the date of the change of control from $34.0 million on January 19, 2023 to $47.4 million on January 19, 2024 if the Hurdle is met at the time of the change of control, or $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 if the Hurdle is not met at the time of the change of control.  Similarly, this amount would further increase on a straight-line interpolation basis based on the date of the change of control from $47.4 million on January 19, 2024 to $62.0 million on January 19, 2025 if the Hurdle is met at the time of the change of control, or $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025 if the Hurdle is not met at the time of the change of control. The amount  was not changed if such change of control occurs prior to January 19, 2023.
+All other material terms and conditions contained in Mr. Silvester’s existing employment agreement remain unchanged by the CEO Employment Amendment, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
+January 27, 2020
+and Item 5.",0,esgr-20220701.txt
+chunk_8,"y's Form 8-K filed on
 January 27, 2020
 and Item 5.02 of the Company's Form 8-K filed on
 April 6, 2021
 , and are incorporated herein by reference.
-The foregoing description of the CEO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CEO Employment Agreement, a copy of which is attached hereto as Exhibit 10.3 and is incorporated into this Item 5.02 by reference.",esgr-20220701.txt,0,5,".0 million if the Hurdle was not met at such time.  Given the extension of the vesting period of the JSOP Agreement, the CEO Employment Amendment provides that if the Company undergoes a change of control before the new Vesting Date, this payment would increase on a straight-line interpolation basis based on the date of the change of control from $34.0 million on January 19, 2023 to $47.4 million on January 19, 2024 if the Hurdle is met at the time of the change of control, or $27.0 million on January 19, 2023 to $37.9 million on January 19, 2024 if the Hurdle is not met at the time of the change of control.  Similarly, this amount would further increase on a straight-line interpolation basis based on the date of the change of control from $47.4 million on January 19, 2024 to $62.0 million on January 19, 2025 if the Hurdle is met at the time of the change of control, or $37.9 million on January 19, 2024 to $49.6 million on January 19, 2025 if the Hurdle is not met at the time of the change of control. The amount  was not changed if such change of control occurs prior to January 19, 2023.
-All other material terms and conditions contained in Mr. Silvester’s existing employment agreement remain unchanged by the CEO Employment Amendment, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
-January 27, 2020
-and Item 5.02 of the Company's Form 8-K filed on
-April 6, 2021
-, and are incorporated herein by reference.
-The foregoing description of the CEO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CEO Employment Agreement, a copy of which is attached hereto as Exhibit 10.3 and is incorporated into this Item 5.02 by reference.",0
-chunk_6,"is incorporated into this Item 5.02 by reference.
+The foregoing description of the CEO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CEO Employment Agreement, a copy of which is attached hereto as Exhibit 10.3 and is incorporated into this Item 5.02 by reference.
 Amendment to Chief Financial Officer Employment Agreement
 On July 1, 2022, the Company entered into an amendment (the ""CFO Employment Amendment"") to the existing amended and restated employment agreement with Orla Gregory, dated as of January 21, 2020 and amended on September 16, 2021.
 2
-The Company entered into the CFO Employment Amendment in connection with Ms. Gregory's appointment to the position of Chief Financial Officer (""CFO""). Ms. Gregory has served as the Company’s Acting Chief Financial Officer since 2021 and the Company’s Chief Operating Officer since 2016. Ms. Gregory will no longer serve as the Company’s Chief Operating Officer following her permanent appointment to the role of CFO.  The Company will no longer have a principal operating officer, as Ms. Gregory’s previous responsibilities in this role will be covered by certain of the Company’s other executive officers. The CFO Employment Amendment also extended the term of Ms. Gregory’s existing employment agreement from March 1, 2023 to March 1, 2026.
+The Company entered into the CFO Employment Amendment in connection with Ms. Gregory's appointment to the position of Chief Financial Officer (""CFO""). Ms. Gregory has served as the Company’s Acting Chief Financial Officer since 2021 and the Company’s Chief Operating Officer since 2016. Ms. Gregory will no longer serve as the Company’s Chief Operating Officer following her permanent appointment to the role of CFO.  The Company will no longer have a principal operating officer, as Ms. Gregory’s previous responsibilities in this role will be covered by certain of the Company’s other executive officers. The CFO Employment Amendment also extended the term of Ms. Gregory’s existing employment agreement from March 1, 2023 to March 1, 2026.",8,0,"y's Form 8-K filed on
+January 27, 2020
+and Item 5.02 of the Company's Form 8-K filed on
+April 6, 2021
+, and are incorporated herein by reference.
+The foregoing description of the CEO Employment Amendment does not purport to be complete and is subject to, and qualified in its entirety by, the full text of the CEO Employment Agreement, a copy of which is attached hereto as Exhibit 10.3 and is incorporated into this Item 5.02 by reference.
+Amendment to Chief Financial Officer Employment Agreement
+On July 1, 2022, the Company entered into an amendment (the ""CFO Employment Amendment"") to the existing amended and restated employment agreement with Orla Gregory, dated as of January 21, 2020 and amended on September 16, 2021.
+2
+The Company entered into the CFO Employment Amendment in connection with Ms. Gregory's appointment to the position of Chief Financial Officer (""CFO""). Ms. Gregory has served as the Company’s Acting Chief Financial Officer since 2021 and the Company’s Chief Operating Officer since 2016. Ms. Gregory will no longer serve as the Company’s Chief Operating Officer following her permanent appointment to the role of CFO.  The Company will no longer have a principal operating officer, as Ms. Gregory’s previous responsibilities in this role will be covered by certain of the Company’s other executive officers. The CFO Employment Amendment also extended the term of Ms. Gregory’s existing employment agreement from March 1, 2023 to March 1, 2026.",0,esgr-20220701.txt
+chunk_9,"ent agreement from March 1, 2023 to March 1, 2026.
 Except as set forth in the CFO Employment Amendment, all other terms and conditions of Ms. Gregory’s existing employment agreement will remain in full force and effect, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 and Item 5.02 of the Company's Form 8-K filed on
@@ -251,11 +264,12 @@ No.
 Description
 10.1
 Letter Agreement, dated July 6, 2022, between the Company and Paul O'Shea.
-10.",esgr-20220701.txt,0,6,"is incorporated into this Item 5.02 by reference.
-Amendment to Chief Financial Officer Employment Agreement
-On July 1, 2022, the Company entered into an amendment (the ""CFO Employment Amendment"") to the existing amended and restated employment agreement with Orla Gregory, dated as of January 21, 2020 and amended on September 16, 2021.
-2
-The Company entered into the CFO Employment Amendment in connection with Ms. Gregory's appointment to the position of Chief Financial Officer (""CFO""). Ms. Gregory has served as the Company’s Acting Chief Financial Officer since 2021 and the Company’s Chief Operating Officer since 2016. Ms. Gregory will no longer serve as the Company’s Chief Operating Officer following her permanent appointment to the role of CFO.  The Company will no longer have a principal operating officer, as Ms. Gregory’s previous responsibilities in this role will be covered by certain of the Company’s other executive officers. The CFO Employment Amendment also extended the term of Ms. Gregory’s existing employment agreement from March 1, 2023 to March 1, 2026.
+10.2
+Deed of Amendment and Restatement to the Joint Ownership Agreement, dated July 1, 2022, between the Company, Dominic F. Silvester and Zedra Trust Company (Guernsey) Limited, as trustee.
+10.3
+Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Dominic F. Silvester.
+10.4
+Amendment No. 2 to the Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Orla Gregory.",9,0,"ent agreement from March 1, 2023 to March 1, 2026.
 Except as set forth in the CFO Employment Amendment, all other terms and conditions of Ms. Gregory’s existing employment agreement will remain in full force and effect, and descriptions of such terms and conditions are included within Item 5.02 of the Company's Form 8-K filed on
 January 27, 2020
 and Item 5.02 of the Company's Form 8-K filed on
@@ -269,14 +283,13 @@ No.
 Description
 10.1
 Letter Agreement, dated July 6, 2022, between the Company and Paul O'Shea.
-10.",0
-chunk_7,"6, 2022, between the Company and Paul O'Shea.
 10.2
 Deed of Amendment and Restatement to the Joint Ownership Agreement, dated July 1, 2022, between the Company, Dominic F. Silvester and Zedra Trust Company (Guernsey) Limited, as trustee.
 10.3
 Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Dominic F. Silvester.
 10.4
-Amendment No. 2 to the Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Orla Gregory.
+Amendment No. 2 to the Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Orla Gregory.",0,esgr-20220701.txt
+chunk_10,"uly 1, 2022, between the Company and Orla Gregory.
 101
 Pursuant to Rule 406 of Regulation S-T, the cover page information in formatted in Inline XBRL
 104
@@ -289,13 +302,7 @@ July 6, 2022
 By:
 /s/ Audrey B. Taranto
 Audrey B. Taranto
-General Counsel and Corporate Secretary",esgr-20220701.txt,0,7,"6, 2022, between the Company and Paul O'Shea.
-10.2
-Deed of Amendment and Restatement to the Joint Ownership Agreement, dated July 1, 2022, between the Company, Dominic F. Silvester and Zedra Trust Company (Guernsey) Limited, as trustee.
-10.3
-Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Dominic F. Silvester.
-10.4
-Amendment No. 2 to the Amended and Restated Employment Agreement, dated July 1, 2022, between the Company and Orla Gregory.
+General Counsel and Corporate Secretary",10,0,"uly 1, 2022, between the Company and Orla Gregory.
 101
 Pursuant to Rule 406 of Regulation S-T, the cover page information in formatted in Inline XBRL
 104
@@ -308,8 +315,8 @@ July 6, 2022
 By:
 /s/ Audrey B. Taranto
 Audrey B. Taranto
-General Counsel and Corporate Secretary",0
-chunk_8,"0001507957
+General Counsel and Corporate Secretary",0,esgr-20220701.txt
+chunk_11,"0001507957
 true
 Ideal Power Inc. (the ""Company"") is filing this Amendment No. 1 to amend the Company's Current Report on Form 8-K filed on March 14, 2022 (the ""Prior 8-K"") to update certain disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of the Prior 8-K is hereby supplemented and amended by the disclosure contained in Item 5.02 of this Amendment No. 1.
 0001507957
@@ -357,22 +364,7 @@ to simultaneously satisfy the filing obligation of the Registrant under any of t
 ¨
 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
 ¨
-Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR240.14a-12)
-¨
-Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).
-¨
-Pre-commencement communications pursuant to Rule 13e-(c) under the Exchange Act (17 CFR 240.13(e)-4(c))
-Securities registered pursuant to Section 12(b) of the Act:
-Title of each class
-Trading Symbol
-Name
-of each exchange on which registered
-Common Stock
-IPWR
-Nasdaq
-Capital Market
-Indicate by check mark whether the registrant is an emerging growth
-company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.",tm2212673d1_8ka.txt,0,8,"0001507957
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR240.",11,1,"0001507957
 true
 Ideal Power Inc. (the ""Company"") is filing this Amendment No. 1 to amend the Company's Current Report on Form 8-K filed on March 14, 2022 (the ""Prior 8-K"") to update certain disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of the Prior 8-K is hereby supplemented and amended by the disclosure contained in Item 5.02 of this Amendment No. 1.
 0001507957
@@ -420,7 +412,8 @@ to simultaneously satisfy the filing obligation of the Registrant under any of t
 ¨
 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
 ¨
-Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR240.14a-12)
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR240.",0,tm2212673d1_8ka.txt
+chunk_12,"to Rule 14a-12 under the Exchange Act (17 CFR240.14a-12)
 ¨
 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).
 ¨
@@ -435,8 +428,7 @@ IPWR
 Nasdaq
 Capital Market
 Indicate by check mark whether the registrant is an emerging growth
-company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.",1
-chunk_9,"le 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
 (17 CFR §240.12b-2).
 Emerging growth
 company
@@ -452,18 +444,22 @@ disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of th
 disclosure contained in Item 5.02 of this Amendment No. 1.
 Item 3.01.
 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
-The information set forth in Item 5.02 below is incorporated by reference
-herein.
-As previously disclosed, on January 13, 2022, the Company received
-correspondence from the Nasdaq Stock Market, Inc. (“Nasdaq”) noting that the Company was no longer in compliance with Nasdaq’s
-audit committee composition requirements as set forth in Listing Rule 5605(c)(2)(A), which requires the Company’s Audit Committee
-to be composed of at least three independent directors (the “Notice”). The Notice was the result of the passing of David B.
-Eisenhaure on October 21, 2021. The passing of Mr. Eisenhaure left the Audit Committee with only two independent directors.
-As a result of the Appointments (as defined below), the Company believes
-that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
-Item 5.02.
-Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
-Officers; Compensatory Arrangements of Certain Officers.",tm2212673d1_8ka.txt,0,9,"le 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
+The information set forth in Item 5.",12,1,"to Rule 14a-12 under the Exchange Act (17 CFR240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).
+¨
+Pre-commencement communications pursuant to Rule 13e-(c) under the Exchange Act (17 CFR 240.13(e)-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name
+of each exchange on which registered
+Common Stock
+IPWR
+Nasdaq
+Capital Market
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934
 (17 CFR §240.12b-2).
 Emerging growth
 company
@@ -479,6 +475,8 @@ disclosures therein under Item 5.02. The disclosure contained in Item 5.02 of th
 disclosure contained in Item 5.02 of this Amendment No. 1.
 Item 3.01.
 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+The information set forth in Item 5.",0,tm2212673d1_8ka.txt
+chunk_13,"r of Listing.
 The information set forth in Item 5.02 below is incorporated by reference
 herein.
 As previously disclosed, on January 13, 2022, the Company received
@@ -490,13 +488,30 @@ As a result of the Appointments (as defined below), the Company believes
 that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
 Item 5.02.
 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
-Officers; Compensatory Arrangements of Certain Officers.",1
-chunk_10,"rs; Compensatory Arrangements of Certain Officers.
+Officers; Compensatory Arrangements of Certain Officers.
 As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
 Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
 of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
 The Company is filing this Amendment No. 1 to report that, on April
-13, 2022, the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
+13, 2022, the Board appointed (the “Appointments”) (i) Mr.",13,1,"r of Listing.
+The information set forth in Item 5.02 below is incorporated by reference
+herein.
+As previously disclosed, on January 13, 2022, the Company received
+correspondence from the Nasdaq Stock Market, Inc. (“Nasdaq”) noting that the Company was no longer in compliance with Nasdaq’s
+audit committee composition requirements as set forth in Listing Rule 5605(c)(2)(A), which requires the Company’s Audit Committee
+to be composed of at least three independent directors (the “Notice”). The Notice was the result of the passing of David B.
+Eisenhaure on October 21, 2021. The passing of Mr. Eisenhaure left the Audit Committee with only two independent directors.
+As a result of the Appointments (as defined below), the Company believes
+that it has regained compliance with the audit committee composition requirements set forth in Nasdaq Listing Rule 5605(c)(2)(A).
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain
+Officers; Compensatory Arrangements of Certain Officers.
+As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
+Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
+of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
+The Company is filing this Amendment No. 1 to report that, on April
+13, 2022, the Board appointed (the “Appointments”) (i) Mr.",0,tm2212673d1_8ka.txt
+chunk_14,", the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
 Committee and as a member of the Audit Committee and (ii) Mr. Knight as Chairperson of the Compensation Committee and as a member of each
 of the Audit Committee and the Nominating and Corporate Governance Committee. In connection therewith, the Board also voted to update
 the composition of the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee. Following these
@@ -525,12 +540,7 @@ IDEAL POWER INC.
 By:
 /s/ Timothy Burns
 Timothy Burns
-Chief Financial Officer",tm2212673d1_8ka.txt,0,10,"rs; Compensatory Arrangements of Certain Officers.
-As previously reported in the Prior 8-K, on March 10, 2022, the Company’s
-Board of Directors (the “Board”) appointed Drue Freeman and Greg Knight to the Board, effective April 4, 2022. At the time
-of the Prior 8-K filing, the Board had not yet determined the Board committee assignments for Messrs. Freeman and Knight.
-The Company is filing this Amendment No. 1 to report that, on April
-13, 2022, the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
+Chief Financial Officer",14,1,", the Board appointed (the “Appointments”) (i) Mr. Freeman as the Chairperson of the Nominating and Corporate Governance
 Committee and as a member of the Audit Committee and (ii) Mr. Knight as Chairperson of the Compensation Committee and as a member of each
 of the Audit Committee and the Nominating and Corporate Governance Committee. In connection therewith, the Board also voted to update
 the composition of the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee. Following these
@@ -559,8 +569,8 @@ IDEAL POWER INC.
 By:
 /s/ Timothy Burns
 Timothy Burns
-Chief Financial Officer",1
-chunk_11,"true
+Chief Financial Officer",0,tm2212673d1_8ka.txt
+chunk_15,"true
 0001646188
 0001646188
 2026-03-09
@@ -618,22 +628,7 @@ Soliciting
                                             material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
 ☐
 Pre-commencement
-                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
-☐
-Pre-commencement
-                                            communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
-Securities Registered Pursuant to Section 12(b) of the Act:
-Title of Each Class
-Trading Symbol
-Name of each exchange on which registered
-Common Stock, par value $0.0001
-ONDS
-The
-Nasdaq
-Stock Market LLC
-Indicate by check mark whether the registrant is an emerging
-growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
-Act of 1934 (§240.12b-2 of this chapter).",ea0282745-8ka1_ondas.txt,0,11,"true
+                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.",15,2,"true
 0001646188
 0001646188
 2026-03-09
@@ -691,7 +686,8 @@ Soliciting
                                             material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
 ☐
 Pre-commencement
-                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+                                            communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.",0,ea0282745-8ka1_ondas.txt
+chunk_16,"Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
 Pre-commencement
                                             communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
@@ -706,8 +702,6 @@ Nasdaq
 Stock Market LLC
 Indicate by check mark whether the registrant is an emerging
 growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
-Act of 1934 (§240.12b-2 of this chapter).",2
-chunk_12,"Exchange
 Act of 1934 (§240.12b-2 of this chapter).
 Emerging
 growth company
@@ -719,7 +713,34 @@ Explanatory note
 Ondas Inc. (the “Company”)
 is filing this Amendment No. 1 to its Current Report on Form 8-K originally filed with the Securities and Exchange Commission on March
 9, 2026 (the “Original Form 8-K”) solely to amend and update the preliminary results press release for the fourth quarter
-and full year 2025 furnished as Exhibit 99.1 thereto.
+and full year 2025 furnished as Exhibit 99.1 thereto.",16,2,"Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement
+                                            communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, par value $0.0001
+ONDS
+The
+Nasdaq
+Stock Market LLC
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+Emerging
+growth company
+☐
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Explanatory note
+Ondas Inc. (the “Company”)
+is filing this Amendment No. 1 to its Current Report on Form 8-K originally filed with the Securities and Exchange Commission on March
+9, 2026 (the “Original Form 8-K”) solely to amend and update the preliminary results press release for the fourth quarter
+and full year 2025 furnished as Exhibit 99.1 thereto.",0,ea0282745-8ka1_ondas.txt
+chunk_17,"full year 2025 furnished as Exhibit 99.1 thereto.
 Since the filing of the
 Original Form 8-K, management has completed additional financial close procedures and refined certain preliminary accounting
 estimates, specifically the net change in the fair value of the Company’s warrant liability which is expected to result in a
@@ -736,19 +757,8 @@ Forward-Looking
 Statements
 Statements
 made in this report that are not statements of historical or current facts are “forward-looking statements” within the meaning
-of the Private Securities Litigation Reform Act of 1995.",ea0282745-8ka1_ondas.txt,0,12,"Exchange
-Act of 1934 (§240.12b-2 of this chapter).
-Emerging
-growth company
-☐
-If
-an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
-with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
-Explanatory note
-Ondas Inc. (the “Company”)
-is filing this Amendment No. 1 to its Current Report on Form 8-K originally filed with the Securities and Exchange Commission on March
-9, 2026 (the “Original Form 8-K”) solely to amend and update the preliminary results press release for the fourth quarter
-and full year 2025 furnished as Exhibit 99.1 thereto.
+of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are, or may be deemed
+to be, forward-looking statements.",17,2,"full year 2025 furnished as Exhibit 99.1 thereto.
 Since the filing of the
 Original Form 8-K, management has completed additional financial close procedures and refined certain preliminary accounting
 estimates, specifically the net change in the fair value of the Company’s warrant liability which is expected to result in a
@@ -765,8 +775,9 @@ Forward-Looking
 Statements
 Statements
 made in this report that are not statements of historical or current facts are “forward-looking statements” within the meaning
-of the Private Securities Litigation Reform Act of 1995.",2
-chunk_13,"Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are, or may be deemed
+of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are, or may be deemed
+to be, forward-looking statements.",0,ea0282745-8ka1_ondas.txt
+chunk_18,"r may be deemed
 to be, forward-looking statements. The Company cautions readers that forward-looking statements are predictions based on the Company’s
 current expectations about future events. These forward-looking statements are not guarantees of future performance and are subject to
 risks, uncertainties and assumptions that are difficult to predict. The Company’s actual results, performance, or achievements could
@@ -777,6 +788,29 @@ in Part II of the Company’s Quarterly Reports on Form 10-Q and in the Company�
 no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise
 that occur after that date, except as required by law.
 Item 9.01 Financial Statements and Exhibits
+.
+(d)
+Exhibits
+Exhibit No.
+Description
+99.",18,2,"r may be deemed
+to be, forward-looking statements. The Company cautions readers that forward-looking statements are predictions based on the Company’s
+current expectations about future events. These forward-looking statements are not guarantees of future performance and are subject to
+risks, uncertainties and assumptions that are difficult to predict. The Company’s actual results, performance, or achievements could
+differ materially from those expressed or implied by the forward-looking statements as a result of a number of factors, including the
+risks discussed under the heading “Risk Factors” discussed under the caption “Item 1A. Risk Factors” in Part I
+of the Company’s most recent Annual Report on Form 10-K or any updates discussed under the caption “Item 1A. Risk Factors”
+in Part II of the Company’s Quarterly Reports on Form 10-Q and in the Company’s other filings with the SEC. The Company undertakes
+no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise
+that occur after that date, except as required by law.
+Item 9.01 Financial Statements and Exhibits
+.
+(d)
+Exhibits
+Exhibit No.
+Description
+99.",0,ea0282745-8ka1_ondas.txt
+chunk_19,"xhibits
 .
 (d)
 Exhibits
@@ -798,17 +832,7 @@ By:
     Eric A. Brock
 Eric A. Brock
 Chief Executive Officer
-3",ea0282745-8ka1_ondas.txt,0,13,"Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are, or may be deemed
-to be, forward-looking statements. The Company cautions readers that forward-looking statements are predictions based on the Company’s
-current expectations about future events. These forward-looking statements are not guarantees of future performance and are subject to
-risks, uncertainties and assumptions that are difficult to predict. The Company’s actual results, performance, or achievements could
-differ materially from those expressed or implied by the forward-looking statements as a result of a number of factors, including the
-risks discussed under the heading “Risk Factors” discussed under the caption “Item 1A. Risk Factors” in Part I
-of the Company’s most recent Annual Report on Form 10-K or any updates discussed under the caption “Item 1A. Risk Factors”
-in Part II of the Company’s Quarterly Reports on Form 10-Q and in the Company’s other filings with the SEC. The Company undertakes
-no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise
-that occur after that date, except as required by law.
-Item 9.01 Financial Statements and Exhibits
+3",19,2,"xhibits
 .
 (d)
 Exhibits
@@ -830,8 +854,8 @@ By:
     Eric A. Brock
 Eric A. Brock
 Chief Executive Officer
-3",2
-chunk_14,"sezl-20260316
+3",13,ea0282745-8ka1_ondas.txt
+chunk_20,"sezl-20260316
 8-K
 0001662991
 FALSE
@@ -879,15 +903,7 @@ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.1
 ☐
 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
-Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
-Title of Each Class
-Trading Symbol(s)
-Name of Each Exchange on Which Registered
-Common Stock, par value $0.00001 per share
-SEZL
-The Nasdaq Stock Market LLC
-Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).",sezl-20260316.txt,0,14,"sezl-20260316
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.",20,3,"sezl-20260316
 8-K
 0001662991
 FALSE
@@ -935,7 +951,8 @@ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.1
 ☐
 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.",0,sezl-20260316.txt
+chunk_21,"Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
 Title of Each Class
 Trading Symbol(s)
@@ -943,34 +960,42 @@ Name of Each Exchange on Which Registered
 Common Stock, par value $0.00001 per share
 SEZL
 The Nasdaq Stock Market LLC
-Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).",3
-chunk_15,"Exchange Act of 1934 (§240.12b-2 of this chapter).
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
 Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
 Item 4.01.    Changes in Registrant’s Certifying Accountant
 (a) Dismissal of Independent Registered Public Accounting Firm
-On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.
-The audit reports of Baker Tilly on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2025 and 2024 did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles. The audit report of Baker Tilly on the effectiveness of internal control over financial reporting as of December 31, 2025 indicated the Company did not maintain effective internal control over financial reporting as of December 31, 2025, because of the effect of the material weaknesses, described below.
-During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; an",sezl-20260316.txt,0,15,"Exchange Act of 1934 (§240.12b-2 of this chapter).
+On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.",21,3,"Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Common Stock, par value $0.00001 per share
+SEZL
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
 Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
 Item 4.01.    Changes in Registrant’s Certifying Accountant
 (a) Dismissal of Independent Registered Public Accounting Firm
-On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.
+On March 16, 2026, Sezzle Inc. (the “Company”) dismissed Baker Tilly US, LLP (“Baker Tilly”) as the Company’s independent registered public accounting firm. The Audit Committee of the Board of Directors of the Company (the “Audit Committee”) participated in and approved the decision to dismiss Baker Tilly.",0,sezl-20260316.txt
+chunk_22,"and approved the decision to dismiss Baker Tilly.
 The audit reports of Baker Tilly on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2025 and 2024 did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles. The audit report of Baker Tilly on the effectiveness of internal control over financial reporting as of December 31, 2025 indicated the Company did not maintain effective internal control over financial reporting as of December 31, 2025, because of the effect of the material weaknesses, described below.
-During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; an",3
-chunk_16,"greements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maint",22,3,"and approved the decision to dismiss Baker Tilly.
+The audit reports of Baker Tilly on the Company’s consolidated financial statements as of and for the fiscal years ended December 31, 2025 and 2024 did not contain an adverse opinion or a disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope, or accounting principles. The audit report of Baker Tilly on the effectiveness of internal control over financial reporting as of December 31, 2025 indicated the Company did not maintain effective internal control over financial reporting as of December 31, 2025, because of the effect of the material weaknesses, described below.
+During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, there were no disagreements, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, between the Company and Baker Tilly on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of Baker Tilly, would have caused Baker Tilly to make reference to the subject matter of the disagreements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maint",0,sezl-20260316.txt
+chunk_23,"inancial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
 The Audit Committee discussed the reportable event described above with Baker Tilly, and the Company has authorized Baker Tilly to respond fully to any inquiries from the Company’s successor independent registered public accounting firm concerning such reportable event.
 The Company has provided Baker Tilly with a copy of the disclosures made by the Company in response to this Item 4.01 and has requested that Baker Tilly furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company in response to this Item 4.01 and, if not, stating the respects in which it does not agree. A copy of the letter from Baker Tilly is filed as Exhibit 16.1 to this Current Report on Form 8-K.
 (b) Engagement of New Independent Registered Public Accounting Firm
-On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.",sezl-20260316.txt,0,16,"greements in connection with its audit reports; and (ii) no “reportable events” within the meaning of Item 304(a)(1)(v) of Regulation S-K, except for the material weakness in the Company’s internal control over financial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.",23,3,"inancial reporting related to the design and maintenance of effective controls to evaluate the appropriate classification of the cash flows related to notes receivable, as previously disclosed in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
 The Audit Committee discussed the reportable event described above with Baker Tilly, and the Company has authorized Baker Tilly to respond fully to any inquiries from the Company’s successor independent registered public accounting firm concerning such reportable event.
 The Company has provided Baker Tilly with a copy of the disclosures made by the Company in response to this Item 4.01 and has requested that Baker Tilly furnish the Company with a letter addressed to the SEC stating whether it agrees with the statements made by the Company in response to this Item 4.01 and, if not, stating the respects in which it does not agree. A copy of the letter from Baker Tilly is filed as Exhibit 16.1 to this Current Report on Form 8-K.
 (b) Engagement of New Independent Registered Public Accounting Firm
-On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.",3
-chunk_17,"tion of its standard client acceptance procedures.
+On March 16, 2026, the Audit Committee approved the engagement of PricewaterhouseCoopers LLP (“PwC”) as the Company’s independent registered public accounting firm for the fiscal year ending December 31, 2026, subject to PwC’s completion of its standard client acceptance procedures.",0,sezl-20260316.txt
+chunk_24,"tion of its standard client acceptance procedures.
 During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, neither the Company nor anyone acting on its behalf consulted PwC regarding: (i) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company’s financial statements, and no written report or oral advice was provided to the Company by PwC that was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue; or (ii) any matter that was either the subject of a disagreement, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, or a reportable event, as described in Item 304(a)(1)(v) of Regulation S-K.
 Item 9.01.    Financial Statements and Exhibits
 (d) Exhibits
@@ -987,7 +1012,7 @@ Dated: March 20, 2026
 By:
 /s/ Charles Youakim
 Charles Youakim
-Chief Executive Officer",sezl-20260316.txt,0,17,"tion of its standard client acceptance procedures.
+Chief Executive Officer",24,3,"tion of its standard client acceptance procedures.
 During the Company’s two most recent fiscal years ended December 31, 2025 and 2024 and the subsequent interim period through March 16, 2026, neither the Company nor anyone acting on its behalf consulted PwC regarding: (i) the application of accounting principles to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company’s financial statements, and no written report or oral advice was provided to the Company by PwC that was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue; or (ii) any matter that was either the subject of a disagreement, as that term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions thereto, or a reportable event, as described in Item 304(a)(1)(v) of Regulation S-K.
 Item 9.01.    Financial Statements and Exhibits
 (d) Exhibits
@@ -1004,8 +1029,8 @@ Dated: March 20, 2026
 By:
 /s/ Charles Youakim
 Charles Youakim
-Chief Executive Officer",3
-chunk_18,"hope-20260319
+Chief Executive Officer",0,sezl-20260316.txt
+chunk_25,"hope-20260319
 0001128361
 false
 0001128361
@@ -1051,18 +1076,7 @@ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
 Securities registered pursuant to Section 12(b) of the Act:
 Common Stock
 ,
-par value $0.001 per share
-HOPE
-NASDAQ Global Select Market
-(Title of class)
-(Trading Symbol)
-(Name of exchange on which registered)
-Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
-Emerging growth company
-☐
-If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
-☐
-Item 5.02.",hope-20260319.txt,0,18,"hope-20260319
+par value $0.",25,4,"hope-20260319
 0001128361
 false
 0001128361
@@ -1108,6 +1122,10 @@ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
 Securities registered pursuant to Section 12(b) of the Act:
 Common Stock
 ,
+par value $0.",0,hope-20260319.txt
+chunk_26,"ion 12(b) of the Act:
+Common Stock
+,
 par value $0.001 per share
 HOPE
 NASDAQ Global Select Market
@@ -1119,11 +1137,26 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 ☐
-Item 5.02.",4
-chunk_19,"to Section 13(a) of the Exchange Act.
+Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On March 19, 2026, David P. Malone, a member of the board of directors (the “Board”) of Hope Bancorp, Inc. (the “Company”), notified the Company that he intends to retire from the Board effective as of the Company’s 2026 Annual Meeting of Stockholders (the “Annual Meeting”) and will therefore not stand for re-election to the Board at the Annual Meeting. Mr. Malone will continue to serve as a director and as chair of the Board Risk Committee until the completion of his term.
+On March 19, 2026, Lisa K.",26,4,"ion 12(b) of the Act:
+Common Stock
+,
+par value $0.001 per share
+HOPE
+NASDAQ Global Select Market
+(Title of class)
+(Trading Symbol)
+(Name of exchange on which registered)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 ☐
 Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
 On March 19, 2026, David P. Malone, a member of the board of directors (the “Board”) of Hope Bancorp, Inc. (the “Company”), notified the Company that he intends to retire from the Board effective as of the Company’s 2026 Annual Meeting of Stockholders (the “Annual Meeting”) and will therefore not stand for re-election to the Board at the Annual Meeting. Mr. Malone will continue to serve as a director and as chair of the Board Risk Committee until the completion of his term.
+On March 19, 2026, Lisa K.",0,hope-20260319.txt
+chunk_27,"completion of his term.
 On March 19, 2026, Lisa K. Pai, a member of the Board of the Company, notified the Company that she intends to retire from the Board effective as of the Annual Meeting and will therefore not stand for re-election to the Board at the Annual Meeting.  Ms. Pai will continue to serve as a director and as a member of the Board Risk Committee and Executive Committee until the completion of her term.
 The decisions of Mr. Malone and Ms. Pai to retire from the Board were not the result, in whole or in part, of any disagreement relating to the Company’s operations, policies or practices. The Company would like to thank Mr. Malone and Ms. Pai for their years of dedication and service to the Company.
 SIGNATURES
@@ -1133,10 +1166,7 @@ Date:  March 20, 2026
 By:
 /s/ Kevin S. Kim
 Kevin S. Kim
-Chairman, President and Chief Executive Officer",hope-20260319.txt,0,19,"to Section 13(a) of the Exchange Act.
-☐
-Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
-On March 19, 2026, David P. Malone, a member of the board of directors (the “Board”) of Hope Bancorp, Inc. (the “Company”), notified the Company that he intends to retire from the Board effective as of the Company’s 2026 Annual Meeting of Stockholders (the “Annual Meeting”) and will therefore not stand for re-election to the Board at the Annual Meeting. Mr. Malone will continue to serve as a director and as chair of the Board Risk Committee until the completion of his term.
+Chairman, President and Chief Executive Officer",27,4,"completion of his term.
 On March 19, 2026, Lisa K. Pai, a member of the Board of the Company, notified the Company that she intends to retire from the Board effective as of the Annual Meeting and will therefore not stand for re-election to the Board at the Annual Meeting.  Ms. Pai will continue to serve as a director and as a member of the Board Risk Committee and Executive Committee until the completion of her term.
 The decisions of Mr. Malone and Ms. Pai to retire from the Board were not the result, in whole or in part, of any disagreement relating to the Company’s operations, policies or practices. The Company would like to thank Mr. Malone and Ms. Pai for their years of dedication and service to the Company.
 SIGNATURES
@@ -1146,8 +1176,8 @@ Date:  March 20, 2026
 By:
 /s/ Kevin S. Kim
 Kevin S. Kim
-Chairman, President and Chief Executive Officer",4
-chunk_20,"true
+Chairman, President and Chief Executive Officer",0,hope-20260319.txt
+chunk_28,"true
 See Explanatory Note
 0000882291
 0000882291
@@ -1209,19 +1239,7 @@ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.1
 ☐
 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
-Securities registered pursuant to Section 12(b) of the Act:
-Title of each class
-Trading Symbol(s)
-Name of each exchange on which registered
-Common Stock, $0.001 par value per share
-AEMD
-The
-Nasdaq
-Capital Market
-Indicate by check mark whether the registrant is an emerging growth
-company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
-Act of 1934 (§ 240.12b-2 of this chapter).",aethlon_8ka.txt,0,20,"true
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.",28,5,"true
 See Explanatory Note
 0000882291
 0000882291
@@ -1283,7 +1301,8 @@ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.1
 ☐
 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ☐
-Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.",0,aethlon_8ka.txt
+chunk_29,"Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 Securities registered pursuant to Section 12(b) of the Act:
 Title of each class
 Trading Symbol(s)
@@ -1295,8 +1314,6 @@ Nasdaq
 Capital Market
 Indicate by check mark whether the registrant is an emerging growth
 company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
-Act of 1934 (§ 240.12b-2 of this chapter).",5
-chunk_21,"xchange
 Act of 1934 (§ 240.12b-2 of this chapter).
 Emerging growth company
 ☐
@@ -1310,21 +1327,18 @@ As previously reported by Aethlon Medical, Inc.
 on November 13, 2023 (the “Initial Form 8-K”), effective November 7, 2023 (the “Effective Date”), (i) James B.
 Frakes, Chief Financial Officer of the Company was appointed as Interim Chief Executive Officer of the Company, replacing Charles J. Fisher,
 Jr. M.D., and (ii) Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer of the Company, was appointed as the Company’s
-Senior Vice President and Chief Operating Officer. Pursuant to Instruction 2 to Item 5.02 of Form 8-K, this Current Report on Form 8-K/A
-is being filed as an amendment to the Initial Form 8-K to provide information related to the compensation arrangements for Messrs. Frakes
-and Cipriani in connection with such appointments, which had not yet been determined at the time of the filing of the Initial Form 8-K.
-In accordance with Rule 12b-15 of the Securities
-Exchange Act of 1934, as amended, the complete text of Item 5.02 of the Initial Form 8-K, as amended hereby, is set forth below.
-Item 5.02 Departure of Directors or Certain Officers; Election of
-Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
-(b)
-Departure of Charles J. Fisher, Jr., M.D. as Chief Executive
-Officer and Resignation of Guy F. Cipriani as Director
-The information set forth in Item 5.02(c) below is incorporated by
-reference into this Item 5.02(b).
-(c)
-Appointment of James B. Frakes as Interim Chief Executive Officer
-and Guy F.",aethlon_8ka.txt,0,21,"xchange
+Senior Vice President and Chief Operating Officer. Pursuant to Instruction 2 to Item 5.",29,5,"Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.001 par value per share
+AEMD
+The
+Nasdaq
+Capital Market
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
 Act of 1934 (§ 240.12b-2 of this chapter).
 Emerging growth company
 ☐
@@ -1338,7 +1352,8 @@ As previously reported by Aethlon Medical, Inc.
 on November 13, 2023 (the “Initial Form 8-K”), effective November 7, 2023 (the “Effective Date”), (i) James B.
 Frakes, Chief Financial Officer of the Company was appointed as Interim Chief Executive Officer of the Company, replacing Charles J. Fisher,
 Jr. M.D., and (ii) Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer of the Company, was appointed as the Company’s
-Senior Vice President and Chief Operating Officer. Pursuant to Instruction 2 to Item 5.02 of Form 8-K, this Current Report on Form 8-K/A
+Senior Vice President and Chief Operating Officer. Pursuant to Instruction 2 to Item 5.",0,aethlon_8ka.txt
+chunk_30,"ting Officer. Pursuant to Instruction 2 to Item 5.02 of Form 8-K, this Current Report on Form 8-K/A
 is being filed as an amendment to the Initial Form 8-K to provide information related to the compensation arrangements for Messrs. Frakes
 and Cipriani in connection with such appointments, which had not yet been determined at the time of the filing of the Initial Form 8-K.
 In accordance with Rule 12b-15 of the Securities
@@ -1352,13 +1367,30 @@ The information set forth in Item 5.02(c) below is incorporated by
 reference into this Item 5.02(b).
 (c)
 Appointment of James B. Frakes as Interim Chief Executive Officer
-and Guy F.",5
-chunk_22,"akes as Interim Chief Executive Officer
 and Guy F. Cipriani as Chief Operating Officer
 Effective as of the Effective Date, Mr. Frakes,
 Chief Financial Officer of the Company, was appointed as (i) Interim Chief Executive Officer of the Company, replacing Dr. Fisher, and
 (ii) a member of the Board of Directors of the Company (the “Board”). Mr. Frakes will additionally remain as Chief Financial
-Officer of the Company. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
+Officer of the Company. Effective as of the Effective Date, Guy F.",30,5,"ting Officer. Pursuant to Instruction 2 to Item 5.02 of Form 8-K, this Current Report on Form 8-K/A
+is being filed as an amendment to the Initial Form 8-K to provide information related to the compensation arrangements for Messrs. Frakes
+and Cipriani in connection with such appointments, which had not yet been determined at the time of the filing of the Initial Form 8-K.
+In accordance with Rule 12b-15 of the Securities
+Exchange Act of 1934, as amended, the complete text of Item 5.02 of the Initial Form 8-K, as amended hereby, is set forth below.
+Item 5.02 Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b)
+Departure of Charles J. Fisher, Jr., M.D. as Chief Executive
+Officer and Resignation of Guy F. Cipriani as Director
+The information set forth in Item 5.02(c) below is incorporated by
+reference into this Item 5.02(b).
+(c)
+Appointment of James B. Frakes as Interim Chief Executive Officer
+and Guy F. Cipriani as Chief Operating Officer
+Effective as of the Effective Date, Mr. Frakes,
+Chief Financial Officer of the Company, was appointed as (i) Interim Chief Executive Officer of the Company, replacing Dr. Fisher, and
+(ii) a member of the Board of Directors of the Company (the “Board”). Mr. Frakes will additionally remain as Chief Financial
+Officer of the Company. Effective as of the Effective Date, Guy F.",0,aethlon_8ka.txt
+chunk_31,"ompany. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
 of the Company, (i) was appointed as the Company’s Senior Vice President and Chief Operating Officer and (ii) resigned from the
 Board.
 The biographies of Mr. Frakes and Mr. Cipriani
@@ -1371,13 +1403,7 @@ In addition, the Frakes Employment Agreement provides that Mr. Frakes is eligibl
 Whether Mr. Frakes receives an annual bonus for any given year, and the amount of any such annual bonus, will be determined in the discretion
 of the Board (or the Compensation Committee thereof), based upon the Company’s and Mr. Frakes’ achievement of objectives and
 milestones to be determined on an annual basis by the Board (or Compensation Committee thereof). The Frakes Employment Agreement also
-provides that if Mr. Frakes’ employment is terminated without cause, or if he resigns for good reason (each as defined in the agreement),
-then Mr.",aethlon_8ka.txt,0,22,"akes as Interim Chief Executive Officer
-and Guy F. Cipriani as Chief Operating Officer
-Effective as of the Effective Date, Mr. Frakes,
-Chief Financial Officer of the Company, was appointed as (i) Interim Chief Executive Officer of the Company, replacing Dr. Fisher, and
-(ii) a member of the Board of Directors of the Company (the “Board”). Mr. Frakes will additionally remain as Chief Financial
-Officer of the Company. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
+provides that if Mr.",31,5,"ompany. Effective as of the Effective Date, Guy F. Cipriani, formerly Senior Vice President and Chief Business Officer
 of the Company, (i) was appointed as the Company’s Senior Vice President and Chief Operating Officer and (ii) resigned from the
 Board.
 The biographies of Mr. Frakes and Mr. Cipriani
@@ -1390,9 +1416,9 @@ In addition, the Frakes Employment Agreement provides that Mr. Frakes is eligibl
 Whether Mr. Frakes receives an annual bonus for any given year, and the amount of any such annual bonus, will be determined in the discretion
 of the Board (or the Compensation Committee thereof), based upon the Company’s and Mr. Frakes’ achievement of objectives and
 milestones to be determined on an annual basis by the Board (or Compensation Committee thereof). The Frakes Employment Agreement also
+provides that if Mr.",0,aethlon_8ka.txt
+chunk_32,"kes Employment Agreement also
 provides that if Mr. Frakes’ employment is terminated without cause, or if he resigns for good reason (each as defined in the agreement),
-then Mr.",5
-chunk_23,"eason (each as defined in the agreement),
 then Mr. Frakes’ will be entitled under the Frakes Employment Agreement to continue to receive his annual base salary and payment
 of premiums for continuation of healthcare benefits for a period of 12 months following such termination.
 In connection with Mr. Frakes’ appointment
@@ -1406,13 +1432,8 @@ employment agreement (the “Cipriani Employment Agreement”) is incorporated h
 section of the Proxy Statement.
 In connection with Mr. Cipriani’s appointment
 as Senior Vice President and Chief Operating Officer of the Company, on December 20, 2023, the Company entered into an amendment to the
-Cipriani Employment Agreement with Mr. Cipriani (the “Cipriani Amendment”), which is effective as of the Effective Date, that
-provides for an annual base salary of $390,000.
-2
-There are no family relationships between either
-of Mr. Frakes and Mr. Cipriani and any other director or executive officer of the Company that requires disclosure under Item 401(d) of
-Regulation S-K. Other than with respect to the Frakes Employment Agreement, as amended by the Frakes Amendment, and the Cipriani Employment
-Agreement, as amended by the Cipriani Amendment, respectively, there are no transactions between either of Mr. Frakes and Mr.",aethlon_8ka.txt,0,23,"eason (each as defined in the agreement),
+Cipriani Employment Agreement with Mr.",32,5,"kes Employment Agreement also
+provides that if Mr. Frakes’ employment is terminated without cause, or if he resigns for good reason (each as defined in the agreement),
 then Mr. Frakes’ will be entitled under the Frakes Employment Agreement to continue to receive his annual base salary and payment
 of premiums for continuation of healthcare benefits for a period of 12 months following such termination.
 In connection with Mr. Frakes’ appointment
@@ -1426,14 +1447,15 @@ employment agreement (the “Cipriani Employment Agreement”) is incorporated h
 section of the Proxy Statement.
 In connection with Mr. Cipriani’s appointment
 as Senior Vice President and Chief Operating Officer of the Company, on December 20, 2023, the Company entered into an amendment to the
+Cipriani Employment Agreement with Mr.",0,aethlon_8ka.txt
+chunk_33,"ment to the
 Cipriani Employment Agreement with Mr. Cipriani (the “Cipriani Amendment”), which is effective as of the Effective Date, that
 provides for an annual base salary of $390,000.
 2
 There are no family relationships between either
 of Mr. Frakes and Mr. Cipriani and any other director or executive officer of the Company that requires disclosure under Item 401(d) of
 Regulation S-K. Other than with respect to the Frakes Employment Agreement, as amended by the Frakes Amendment, and the Cipriani Employment
-Agreement, as amended by the Cipriani Amendment, respectively, there are no transactions between either of Mr. Frakes and Mr.",5
-chunk_24,"transactions between either of Mr. Frakes and Mr. Cipriani
+Agreement, as amended by the Cipriani Amendment, respectively, there are no transactions between either of Mr. Frakes and Mr. Cipriani
 or any member of their respective immediate families, on the one hand, and the Company or any of its subsidiaries, on the other hand,
 that requires disclosure under Item 404(a) of Regulation S-K. Furthermore, there are no arrangements or understandings between either
 of Mr. Frakes and Mr. Cipriani and any other person pursuant to which either Mr. Frakes or Mr. Cipriani was selected to their applicable
@@ -1441,6 +1463,27 @@ roles with the Company.
 The foregoing descriptions of each of the Frakes
 Amendment and the Cipriani Amendment are qualified in their entirety by reference to the full text of the Frakes Amendment and the Cipriani
 Amendment, respectively, which are filed as Exhibit 10.1 and Exhibit 10.2 to this Current Report on Form 8-K/A, respectively, and incorporated
+by reference herein.
+(d)
+Appointment of James B.",33,5,"ment to the
+Cipriani Employment Agreement with Mr. Cipriani (the “Cipriani Amendment”), which is effective as of the Effective Date, that
+provides for an annual base salary of $390,000.
+2
+There are no family relationships between either
+of Mr. Frakes and Mr. Cipriani and any other director or executive officer of the Company that requires disclosure under Item 401(d) of
+Regulation S-K. Other than with respect to the Frakes Employment Agreement, as amended by the Frakes Amendment, and the Cipriani Employment
+Agreement, as amended by the Cipriani Amendment, respectively, there are no transactions between either of Mr. Frakes and Mr. Cipriani
+or any member of their respective immediate families, on the one hand, and the Company or any of its subsidiaries, on the other hand,
+that requires disclosure under Item 404(a) of Regulation S-K. Furthermore, there are no arrangements or understandings between either
+of Mr. Frakes and Mr. Cipriani and any other person pursuant to which either Mr. Frakes or Mr. Cipriani was selected to their applicable
+roles with the Company.
+The foregoing descriptions of each of the Frakes
+Amendment and the Cipriani Amendment are qualified in their entirety by reference to the full text of the Frakes Amendment and the Cipriani
+Amendment, respectively, which are filed as Exhibit 10.1 and Exhibit 10.2 to this Current Report on Form 8-K/A, respectively, and incorporated
+by reference herein.
+(d)
+Appointment of James B.",0,aethlon_8ka.txt
+chunk_34,"d
 by reference herein.
 (d)
 Appointment of James B. Frakes as Director
@@ -1467,14 +1510,7 @@ By:
 Name:
 James B. Frakes
 Interim Chief Executive Officer and Chief Financial Officer
-4",aethlon_8ka.txt,0,24,"transactions between either of Mr. Frakes and Mr. Cipriani
-or any member of their respective immediate families, on the one hand, and the Company or any of its subsidiaries, on the other hand,
-that requires disclosure under Item 404(a) of Regulation S-K. Furthermore, there are no arrangements or understandings between either
-of Mr. Frakes and Mr. Cipriani and any other person pursuant to which either Mr. Frakes or Mr. Cipriani was selected to their applicable
-roles with the Company.
-The foregoing descriptions of each of the Frakes
-Amendment and the Cipriani Amendment are qualified in their entirety by reference to the full text of the Frakes Amendment and the Cipriani
-Amendment, respectively, which are filed as Exhibit 10.1 and Exhibit 10.2 to this Current Report on Form 8-K/A, respectively, and incorporated
+4",34,5,"d
 by reference herein.
 (d)
 Appointment of James B. Frakes as Director
@@ -1501,8 +1537,8 @@ By:
 Name:
 James B. Frakes
 Interim Chief Executive Officer and Chief Financial Officer
-4",5
-chunk_25,"false
+4",0,aethlon_8ka.txt
+chunk_35,"false
 0001951667
 0001951667
 2026-03-20
@@ -1563,18 +1599,7 @@ Pre-commencement communications pursuant to Rule 14d-2(b) under the
 Exchange Act (17 CFR 240.14d-2(b))
 ¨
 Pre-commencement communications pursuant to Rule 13e-4(c) under the
-Exchange Act (17 CFR 240.13e-4(c))
-Securities registered pursuant to Section 12(b)
-of the Act:
-Title of each class
-Trading Symbol(s)
-Name of each exchange on which
-registered
-Class A Common Stock
-CTNT
-The Nasdaq Stock Market LLC
-Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
-of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).",tm269395d1_8k.txt,0,25,"false
+Exchange Act (17 CFR 240.",35,6,"false
 0001951667
 0001951667
 2026-03-20
@@ -1635,6 +1660,8 @@ Pre-commencement communications pursuant to Rule 14d-2(b) under the
 Exchange Act (17 CFR 240.14d-2(b))
 ¨
 Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.",0,tm269395d1_8k.txt
+chunk_36,"Rule 13e-4(c) under the
 Exchange Act (17 CFR 240.13e-4(c))
 Securities registered pursuant to Section 12(b)
 of the Act:
@@ -1646,8 +1673,7 @@ Class A Common Stock
 CTNT
 The Nasdaq Stock Market LLC
 Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
-of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).",6
-chunk_26,"Exchange Act of 1934 (§240.12b-2 of this chapter).
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
 Emerging growth company
 x
 If an emerging growth company, indicate by check
@@ -1672,17 +1698,19 @@ Press Release dated March 20, 2026
 Cover Page Interactive Data File (embedded within the Inline XBRL document)
 SIGNATURES
 Pursuant to the requirements of the Securities
-Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
-Cheetah Net Supply Chain Service Inc.
-Date: March 20, 2026
-By:
-/
-s
-/
-Huan Liu
-Huan Liu
-Chief Executive Officer, Director, and Chairman of the Board of Directors
-(Principal Executive Officer)",tm269395d1_8k.txt,0,26,"Exchange Act of 1934 (§240.12b-2 of this chapter).
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",36,6,"Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which
+registered
+Class A Common Stock
+CTNT
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
 Emerging growth company
 x
 If an emerging growth company, indicate by check
@@ -1707,7 +1735,8 @@ Press Release dated March 20, 2026
 Cover Page Interactive Data File (embedded within the Inline XBRL document)
 SIGNATURES
 Pursuant to the requirements of the Securities
-Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",0,tm269395d1_8k.txt
+chunk_37,"ehalf by the undersigned hereunto duly authorized.
 Cheetah Net Supply Chain Service Inc.
 Date: March 20, 2026
 By:
@@ -1717,4 +1746,14 @@ s
 Huan Liu
 Huan Liu
 Chief Executive Officer, Director, and Chairman of the Board of Directors
-(Principal Executive Officer)",6
+(Principal Executive Officer)",37,6,"ehalf by the undersigned hereunto duly authorized.
+Cheetah Net Supply Chain Service Inc.
+Date: March 20, 2026
+By:
+/
+s
+/
+Huan Liu
+Huan Liu
+Chief Executive Officer, Director, and Chairman of the Board of Directors
+(Principal Executive Officer)",0,tm269395d1_8k.txt
