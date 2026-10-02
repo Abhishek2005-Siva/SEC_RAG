@@ -9,7 +9,7 @@ This project is a modular Retrieval-Augmented Generation (RAG) pipeline for extr
 
 ## Streamlit app
 
-BM25 search over the filings in `sec_filings/` (plus any you upload), with an optional LLM-written answer if you paste an OpenAI key. The full hybrid pipeline (SBERT, ChromaDB, cross-encoder) still runs locally with `rag_pipeline.py`.
+BM25 search over the filings in `sec_filings/` (plus any you upload), with an optional LLM-written answer if you pick OpenAI or NVIDIA (free) in the sidebar and paste a key. The full hybrid pipeline (SBERT, ChromaDB, cross-encoder) still runs locally with `rag_pipeline.py`.
 
 ```bash
 pip install -r streamlit_app/requirements.txt
