@@ -7,6 +7,17 @@
 
 This project is a modular Retrieval-Augmented Generation (RAG) pipeline for extracting, indexing, and searching large-scale SEC EDGAR filings using both keyword and semantic search, with cross-encoder re-ranking and LLM-powered answer generation.
 
+## Streamlit app
+
+BM25 search over the filings in `sec_filings/` (plus any you upload), with an optional LLM-written answer if you paste an OpenAI key. The full hybrid pipeline (SBERT, ChromaDB, cross-encoder) still runs locally with `rag_pipeline.py`.
+
+```bash
+pip install -r streamlit_app/requirements.txt
+streamlit run streamlit_app/app.py
+```
+
+**Deploy on Streamlit Community Cloud:** at [share.streamlit.io](https://share.streamlit.io) choose this repo, branch `main` and main file `streamlit_app/app.py`.
+
 ## Overview
 
 The RAG pipeline combines multiple retrieval and ranking techniques to deliver highly relevant document passages and LLM-generated answers:
