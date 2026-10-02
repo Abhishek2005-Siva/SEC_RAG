@@ -1,5 +1,10 @@
 # SEC Filing RAG Pipeline
 
+**Live site:** [sec-rag.vercel.app](https://sec-rag.vercel.app) · **Source:** [`/web`](web)
+
+> The live site is a Vite + React landing page that explains the project. The application itself runs locally, so follow the setup steps below to try it.
+
+
 This project is a modular Retrieval-Augmented Generation (RAG) pipeline for extracting, indexing, and searching large-scale SEC EDGAR filings using both keyword and semantic search, with cross-encoder re-ranking and LLM-powered answer generation.
 
 ## Overview
