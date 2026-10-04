@@ -17,10 +17,12 @@ import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # nvidia_picker.py lives next to this file
 
 from chunking_documents import chunk_documents  # noqa: E402
 from keyword_search import BM25KeywordSearch  # noqa: E402
 from llm_answer import build_prompt  # noqa: E402
+from nvidia_picker import apply_pending_model, render_model_picker  # noqa: E402
 
 FILINGS_DIR = ROOT / "sec_filings"
 # Both providers speak the OpenAI API; NVIDIA's free hosted models just use another base URL.
@@ -109,6 +111,7 @@ def ask_llm(api_key: str, base_url: str | None, model: str, query: str, hits) ->
 
 
 def main() -> None:
+    apply_pending_model("model_sel_NVIDIA (free)")
     with st.sidebar:
         st.title("🔎 SEC Filing RAG")
         st.caption("Keyword search over SEC filings, with an optional LLM-written answer.")
@@ -116,7 +119,9 @@ def main() -> None:
         cfg = PROVIDERS[provider]
         api_key = st.text_input("API key (optional)", type="password", placeholder=cfg["hint"],
                                 help="Only needed for the written answer. Used in this session only.")
-        model = st.selectbox("Answer model", models_for(provider))
+        model = st.selectbox("Answer model", models_for(provider), key=f"model_sel_{provider}")
+        if provider.startswith("NVIDIA"):
+            render_model_picker(api_key, models_for(provider))
         top_k = st.slider("Passages to retrieve", 1, 10, 3)
         with st.expander("Chunking"):
             chunk_size = st.slider("Chunk size (characters)", 500, 4000, 2000, step=250)
