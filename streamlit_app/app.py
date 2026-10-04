@@ -10,22 +10,26 @@ runs locally with rag_pipeline.py.
 import sys
 from pathlib import Path
 
+import json
+import re
+import urllib.request
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # nvidia_picker.py lives next to this file
 
 from chunking_documents import chunk_documents  # noqa: E402
 from keyword_search import BM25KeywordSearch  # noqa: E402
 from llm_answer import build_prompt  # noqa: E402
+from nvidia_picker import apply_pending_model, render_model_picker  # noqa: E402
 
 FILINGS_DIR = ROOT / "sec_filings"
 # Both providers speak the OpenAI API; NVIDIA's free hosted models just use another base URL.
 PROVIDERS = {
     "NVIDIA (free)": {
         "base_url": "https://integrate.api.nvidia.com/v1",
-        "models": ["nvidia/nemotron-3-super-120b-a12b", "nvidia/nemotron-nano-3-30b-a3b",
-                   "mistralai/mistral-large-2-instruct"],
+        "models": [],  # filled live by nvidia_models()
         "hint": "nvapi-…  (free key at build.nvidia.com)",
     },
     "OpenAI": {
@@ -34,6 +38,36 @@ PROVIDERS = {
         "hint": "sk-…",
     },
 }
+
+# NVIDIA's hosted lineup changes often (models get retired without notice), so read the live list.
+NVIDIA_MODELS_URL = "https://integrate.api.nvidia.com/v1/models"
+_NON_CHAT = re.compile(
+    r"embed|rerank|safety|guard|reward|parse|vlm|vision|clip|retriev|riva|neva|vila|kosmos|"
+    r"deplot|fuyu|video|cosmos|ising|starcoder", re.I)
+_PREFERRED = [
+    "mistralai/mistral-large-2-instruct",
+    "nvidia/llama-3.1-nemotron-70b-instruct",
+    "nvidia/nemotron-nano-3-30b-a3b",
+    "openai/gpt-oss-20b",
+]
+
+
+@st.cache_data(ttl=1800, show_spinner=False)
+def nvidia_models() -> list[str]:
+    """Chat models NVIDIA is serving right now, preferred ones first. Falls back to a short list."""
+    try:
+        with urllib.request.urlopen(NVIDIA_MODELS_URL, timeout=8) as resp:
+            ids = [m["id"] for m in json.load(resp)["data"]]
+        chat = [i for i in ids if not _NON_CHAT.search(i)]
+        first = [m for m in _PREFERRED if m in chat]
+        return (first + [i for i in chat if i not in first]) or list(_PREFERRED)
+    except Exception:  # noqa: BLE001 - offline or endpoint changed
+        return list(_PREFERRED)
+
+
+def models_for(provider: str) -> list[str]:
+    return nvidia_models() if provider.startswith("NVIDIA") else PROVIDERS[provider]["models"]
+
 EXAMPLES = [
     "Who was appointed to the board of directors?",
     "What are the key terms of the agreement?",
@@ -77,6 +111,7 @@ def ask_llm(api_key: str, base_url: str | None, model: str, query: str, hits) ->
 
 
 def main() -> None:
+    apply_pending_model("model_sel_NVIDIA (free)")
     with st.sidebar:
         st.title("🔎 SEC Filing RAG")
         st.caption("Keyword search over SEC filings, with an optional LLM-written answer.")
@@ -84,7 +119,9 @@ def main() -> None:
         cfg = PROVIDERS[provider]
         api_key = st.text_input("API key (optional)", type="password", placeholder=cfg["hint"],
                                 help="Only needed for the written answer. Used in this session only.")
-        model = st.selectbox("Answer model", cfg["models"])
+        model = st.selectbox("Answer model", models_for(provider), key=f"model_sel_{provider}")
+        if provider.startswith("NVIDIA"):
+            render_model_picker(api_key, models_for(provider))
         top_k = st.slider("Passages to retrieve", 1, 10, 3)
         with st.expander("Chunking"):
             chunk_size = st.slider("Chunk size (characters)", 500, 4000, 2000, step=250)
